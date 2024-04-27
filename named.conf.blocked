@@ -3105,7 +3105,6 @@ zone "ju.mp"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "juegaenlinea.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "just-a-test.domain"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpay24.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpaybalance.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpaybest.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
