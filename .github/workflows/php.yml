@@ -1,4 +1,4 @@
-name: PHP Check
+name: Autoupdate
 
 on:
   push:
