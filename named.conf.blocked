@@ -933,7 +933,6 @@ zone "avtopribor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "ayadvent.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "azart.gaminatorclub.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "azov-france.fr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "azoveone.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "azovone.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "b-bets.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "b.kinogo2019.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
