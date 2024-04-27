@@ -9,7 +9,7 @@ on:
     - cron: '1 * * * *'
 
 permissions:
-  contents: read write
+  contents: read, write
 
 jobs:
   update:
