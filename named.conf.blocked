@@ -5600,7 +5600,6 @@ zone "qa.studio"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "qd-dispay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qh-deals.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qi-dispay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "qiwi.gcs"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qiwi.gcs-web.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qiwi.kz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qiwi.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7122,7 +7121,6 @@ zone "web-banking.site"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "web-inpayments.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "web-moneta.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "web.3dice.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "web.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "webbyslot12.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "webbyslot13.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "webbyslot15.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

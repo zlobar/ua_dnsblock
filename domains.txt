@@ -5600,7 +5600,6 @@ qa.studio
 qd-dispay.com
 qh-deals.com
 qi-dispay.me
-qiwi.gcs
 qiwi.gcs-web.com
 qiwi.kz
 qiwi.me
@@ -7122,7 +7121,6 @@ web-banking.site
 web-inpayments.com
 web-moneta.com
 web.3dice.com
-web.com
 webbyslot12.com
 webbyslot13.com
 webbyslot15.com
