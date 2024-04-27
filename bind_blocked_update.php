@@ -38,8 +38,8 @@ foreach ($domains as $dom) {
 	$blocked[]="zone \"${dom}\"\t{ type master; file \"/usr/local/etc/namedb/primary/empty.db\"; };";
 }
 
-file_put_contents(dirname(__FILE__)."/named.conf.blocked2", implode("\n",$blocked)."\n");
-file_put_contents(dirname(__FILE__)."/domains.txt2", implode("\n",$domains)."\n");
+file_put_contents(dirname(__FILE__)."/named.conf.blocked", implode("\n",$blocked)."\n");
+file_put_contents(dirname(__FILE__)."/domains.txt", implode("\n",$domains)."\n");
 //exec("/usr/local/sbin/rndc reload");
 
 ?>
