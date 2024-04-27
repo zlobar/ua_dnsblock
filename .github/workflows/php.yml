@@ -23,5 +23,7 @@ jobs:
           coverage: none
 
       - run: php bind_blocked_update.php
-      - run: ls -lAh /home/runner/work/ua_dnsblock/ua_dnsblock/
+      - run: git add domains.txt named.conf.blocked
+      - run: git commit -m "updated"
+      - run: git push
       
