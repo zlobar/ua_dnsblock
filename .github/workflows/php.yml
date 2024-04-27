@@ -22,7 +22,7 @@ jobs:
           php-version: 8.2
           coverage: none
       - name: run script
-        run: php tools/bind_blocked_update.php
+        run: php bin/bind_blocked_update.php
       - name: update files
         uses: test-room-7/action-update-file@v1
         with:
