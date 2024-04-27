@@ -278,7 +278,6 @@ zone "3.2.50zigzag777.com"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "3.egocasino3.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "3.egocasino4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "3.ivicasino9.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "30.523541"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "321cryptocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "324ds.ica"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "32red.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -327,7 +326,6 @@ zone "4starsgames.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "5-tv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5.argocasino50.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5.ivicasino12.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "50.450418"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "55id.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5litrov-narazliv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5q6f178.cn"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -389,7 +387,6 @@ zone "8slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "90slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "91slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "92slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "93.1"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "93slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "94slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "966spirt.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
