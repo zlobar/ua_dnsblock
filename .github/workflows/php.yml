@@ -21,9 +21,13 @@ jobs:
         with:
           php-version: 8.2
           coverage: none
-
-      - run: php bind_blocked_update.php
-      - run: git add domains.txt named.conf.blocked
-      - run: git commit -m "updated"
-      - run: git push
-      
+      - name: run script
+        run: php bind_blocked_update.php
+      - name: update files
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: |
+            domains.txt
+            named.conf.blocked
+          commit-msg: Autoupdate
+          github-token: ${{ secrets.GITHUB_TOKEN }}
