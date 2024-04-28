@@ -24,7 +24,6 @@ dnepr.strana.news
 dnepr.strana.one
 dnepr.strana.today
 en.kremlin.ru
-farmamarket.com.ua
 finbet.bet
 getpayclubs.shop
 getpayforum.shop
@@ -58,8 +57,6 @@ lvov.strana.news
 lvov.strana.one
 lvov.strana.today
 minpayline.shop
-mvs.gov.od.ua
-mvsgov.com.ua
 myspint.pp.ua
 newpayline.shop
 next-private24.xyz
@@ -72,7 +69,6 @@ p-invezt.net
 paysxe.com
 priv-inv.com
 pshenicna-vodka-kieva.combus.org.ua
-rian.com.ua
 strana.online
 up-pay.me
 v2.strana.news
