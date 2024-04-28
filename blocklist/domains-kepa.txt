@@ -42,10 +42,8 @@ img.strana.best
 img.strana.news
 img.strana.one
 img.strana.today
-inst.net
 ipstream.one
 iptv.online
-iskra-dnr.ru
 kharkov.strana.best
 kharkov.strana.news
 kharkov.strana.today
@@ -79,7 +77,6 @@ strana.online
 up-pay.me
 v2.strana.news
 v2.strana.today
-voloshyna.org.ua
 www.drweb.ru
 www.group-ib.ru
 www.gtrklnr.com
