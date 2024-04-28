@@ -1,7 +1,4 @@
 alco-hub.com
-alko-paradise.com.ua
-allpaymentclub.shop
-allpaymentservice.shop
 amp.strana.best
 amp.strana.news
 amp.strana.one
@@ -14,11 +11,9 @@ apaymicro.shop
 apayonline.shop
 apayportal.shop
 apayweek.shop
-bc-pay.me
 cdn.iptv.monster
 ctrana.media
 ctrana.online
-cy-pay.me
 dnepr.strana.best
 dnepr.strana.news
 dnepr.strana.one
@@ -57,20 +52,13 @@ lvov.strana.news
 lvov.strana.one
 lvov.strana.today
 minpayline.shop
-myspint.pp.ua
 newpayline.shop
-next-private24.xyz
 odessa.strana.best
 odessa.strana.news
 odessa.strana.one
 odessa.strana.today
 okko.tv
-p-invezt.net
-paysxe.com
-priv-inv.com
-pshenicna-vodka-kieva.combus.org.ua
 strana.online
-up-pay.me
 v2.strana.news
 v2.strana.today
 www.drweb.ru
@@ -92,5 +80,4 @@ www.smartwm.ru
 www.strana.bes
 www.strana.best
 www.strana.news
-xz-pay.me
 yablo.tv
