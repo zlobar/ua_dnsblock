@@ -7459,7 +7459,6 @@ zone "xn--kko-red.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "xn--lfedon-pvf.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--lko-mag-1fg.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--mstk-53d0gyhb.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "xn--nkasamicro-w2i.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--parwn-p2eb.xn--n-evb.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xpaid0rg.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xpaidclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
