@@ -3843,7 +3843,6 @@ minpayday.shop
 minpaydom.shop
 minpayexpres.shop
 minpayforum.shop
-minpayline.shop
 minpaylink.shop
 minpaymaestro.shop
 minpaymarket.shop
@@ -4211,7 +4210,6 @@ newpayfree.art
 newpayfree.beauty
 newpayinf0.tech
 newpayline.beauty
-newpayline.shop
 newpaylink.beauty
 newpaylink.shop
 newpaymaster.shop
@@ -7318,14 +7316,11 @@ www.fastpay-casino.com
 www.fon.bet
 www.geopolitika.ru
 www.grandx.com
-www.group-ib.ru
 www.gtrklnr.com
 www.htmlacademy.ru
 www.ilucki.com
 www.infox.ru
-www.inlinegroup.ru
 www.inlinegroup.ua
-www.ints.net
 www.ivi.az
 www.ivi.ru
 www.ivi.tv
@@ -7342,8 +7337,6 @@ www.knu.edu.eu
 www.knushevchenko.com
 www.konungcasino.com
 www.kyivmnu.com
-www.labirint.ru
-www.litres.ru
 www.loyalcasino.com
 www.lux96.com.ua
 www.mail.ru

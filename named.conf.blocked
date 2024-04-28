@@ -3843,7 +3843,6 @@ zone "minpayday.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "minpaydom.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minpayexpres.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minpayforum.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "minpayline.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minpaylink.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minpaymaestro.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minpaymarket.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4211,7 +4210,6 @@ zone "newpayfree.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "newpayfree.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newpayinf0.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newpayline.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "newpayline.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newpaylink.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newpaylink.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newpaymaster.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7318,14 +7316,11 @@ zone "www.fastpay-casino.com"	{ type master; file "/usr/local/etc/namedb/primary
 zone "www.fon.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.geopolitika.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.grandx.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.group-ib.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.gtrklnr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.htmlacademy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ilucki.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.infox.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.inlinegroup.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.inlinegroup.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.ints.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ivi.az"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ivi.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ivi.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7342,8 +7337,6 @@ zone "www.knu.edu.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "www.knushevchenko.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.konungcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.kyivmnu.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.labirint.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.litres.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.loyalcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.lux96.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.mail.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
