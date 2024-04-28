@@ -51,8 +51,6 @@ lvov.strana.best
 lvov.strana.news
 lvov.strana.one
 lvov.strana.today
-minpayline.shop
-newpayline.shop
 odessa.strana.best
 odessa.strana.news
 odessa.strana.one
@@ -62,14 +60,9 @@ strana.online
 v2.strana.news
 v2.strana.today
 www.drweb.ru
-www.group-ib.ru
 www.gtrklnr.com
-www.inlinegroup.ru
 www.inlinegroup.ua
-www.ints.net
 www.kaspersky.ru
-www.labirint.ru
-www.litres.ru
 www.nateks.ru
 www.ozon.ru
 www.qiwi.com
