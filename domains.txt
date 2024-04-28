@@ -766,14 +766,12 @@ allpayhome.shop
 allpayinfo.shop
 allpaymaestro.pics
 allpaymaster.pics
-allpaymentclub.shop
 allpaymentexpert.shop
 allpaymentforum.shop
 allpaymentmaestro.shop
 allpaymentmaster.shop
 allpaymentmicro.shop
 allpaymentportal.shop
-allpaymentservice.shop
 allpaynew.shop
 allpayone.pics
 allpayplus.pics
@@ -969,7 +967,6 @@ baskino.org
 baskino.uno
 baskino.website
 baza-mvs.online
-bc-pay.me
 bc.game
 bcasino.com
 bcat24.com
@@ -1549,7 +1546,6 @@ ctrana.media
 ctrana.news
 ctrana.online
 cube24.top
-cy-pay.me
 cyclowiki.org
 cygarky.kyiv.ua
 cypruscasinos.com
@@ -4098,7 +4094,6 @@ mypayvip.pics
 mypayweek.shop
 myprivat24.top
 myprivatmebel.site
-myspint.pp.ua
 myspirt.pp.ua
 mystake.bet
 myua-compensations.xyz
@@ -4249,7 +4244,6 @@ next-privat24.ga
 next-privat24.me
 next-privat24.tk
 next-private24.co.ua
-next-private24.xyz
 next-privats24.online
 next24-money.me
 next24-onlains.best
@@ -4720,7 +4714,6 @@ p-help.icu
 p-help.online
 p-help.pro
 p-help.xyz
-p-invezt.net
 p-pay.me
 p2p.qiwi.com
 pa.fox-tv.fun
@@ -5085,7 +5078,6 @@ paysme.net
 paysonlines.com
 paysss.store
 paystree.com
-paysxe.com
 paysys.top
 payua.fun
 paywefere.com
@@ -5369,7 +5361,6 @@ pricesprom.shop
 primacdk.primaplay.eu
 primaplay.eu
 primedice.com
-priv-inv.com
 privaf24.online
 privat-24-next.site
 privat-24.uk
@@ -5579,7 +5570,6 @@ pshenichnay-vodka-kyev.com
 pshenichnaya-vodka-kiev.com
 pshenichnaya-vodka-kiyv.biz
 pshenichnaya-vodka.kyiv.ua
-pshenicna-vodka-kieva.combus.org.ua
 pshenishna.com
 pub-gos.top
 public-pay.pw
@@ -6835,7 +6825,6 @@ uo-dispath.me
 uo-pay.me
 uonline.me
 uoperev.ucoz.org
-up-pay.me
 up-pay.online
 up-pay.top
 upaymant.cyou
@@ -7483,7 +7472,6 @@ xw1x2pfb.megatv.fun
 xx-pay.co
 xx-pay.me
 xxiveklnr.su
-xz-pay.me
 y-dopomoga.life
 y-dopomoga.site
 y-pai.me
