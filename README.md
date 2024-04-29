@@ -1,3 +1,4 @@
+
 blocklist/
 ------
 Доменні імена, що підлягають блокуванню відповідно до [Розпоряджень НЦУ](https://cip.gov.ua/ua/filter?tagId=60751), рішень РНБО і Нацради, Указів Президента України
@@ -16,4 +17,10 @@ https://raw.githubusercontent.com/zlobar/ua_dnsblock/main/domains.txt
 
 https://raw.githubusercontent.com/zlobar/ua_dnsblock/main/named.conf.blocked
 
-_Оновлено станом на 27.04.2024_
+Згенерований фрагмент конфігу для Unbound
+------
+
+https://raw.githubusercontent.com/zlobar/ua_dnsblock/main/unbound.conf.blocked
+
+
+_Оновлено станом на 26.04.2024_
