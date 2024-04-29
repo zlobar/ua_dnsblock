@@ -28,7 +28,7 @@ jobs:
       - name: run php script
         run: php bin/bind_blocked_update.php
       - name: run python script
-        run: python bin/unbound_blocked_update.php
+        run: python bin/unbound_blocked_update.py
       - name: update files
         uses: test-room-7/action-update-file@v1
         with:
