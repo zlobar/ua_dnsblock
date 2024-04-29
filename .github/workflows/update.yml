@@ -22,7 +22,7 @@ jobs:
           php-version: 8.2
           coverage: none
       - name: run php script
-        run: php bin/dnsconfig_update.php
+        run: php bin/dns_config_update.php
       - name: update files
         uses: test-room-7/action-update-file@v1
         with:
