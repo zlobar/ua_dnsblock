@@ -21,14 +21,8 @@ jobs:
         with:
           php-version: 8.2
           coverage: none
-      - uses: actions/setup-python@v4
-        with:
-          php-version: 3.11
-          coverage: none
       - name: run php script
-        run: php bin/bind_blocked_update.php
-      - name: run python script
-        run: python bin/unbound_blocked_update.py
+        run: php bin/dnsconfig_update.php
       - name: update files
         uses: test-room-7/action-update-file@v1
         with:

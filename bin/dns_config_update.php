@@ -33,12 +33,15 @@ foreach ($files as $fname) {
 $domains=array_unique($domains);
 sort($domains);
 
-$blocked=array();
+$bind=array();
+$unbound=array("server:");
 foreach ($domains as $dom) {
-	$blocked[]="zone \"${dom}\"\t{ type master; file \"/usr/local/etc/namedb/primary/empty.db\"; };";
+	$bind[]="zone \"${dom}\"\t{ type master; file \"/usr/local/etc/namedb/primary/empty.db\"; };";
+	$unbound[]="local-data: \"${dom} A 127.0.0.1\"";
 }
 
-file_put_contents(dirname(__FILE__)."/../named.conf.blocked", implode("\n",$blocked)."\n");
+file_put_contents(dirname(__FILE__)."/../named.conf.blocked", implode("\n",$bind)."\n");
+file_put_contents(dirname(__FILE__)."/../unbound.conf.blocked", implode("\n",$unbound)."\n");
 file_put_contents(dirname(__FILE__)."/../domains.txt", implode("\n",$domains)."\n");
 
 ?>
