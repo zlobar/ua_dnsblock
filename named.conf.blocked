@@ -5344,6 +5344,7 @@ zone "pointloto1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "pointloto2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pointloto3.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pointloto4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pointloto6.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pojopay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "poker-bet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "poker.borgataonline.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
