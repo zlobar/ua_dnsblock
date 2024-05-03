@@ -7006,6 +7006,7 @@ zone "vandalvape.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "vandalvape.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vandalvape.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vandalvape.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vandalvape.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vapehub.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vavada.lol"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vavadatg5.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
