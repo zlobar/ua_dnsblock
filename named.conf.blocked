@@ -2,6 +2,7 @@ zone "0k3vnn213wmst.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "0mp4ep.cn"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "0n2payline.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "0n2paylink.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "0n2paylloftschool.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "0n2payvip.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "0nepaidclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "0nepaidexpress.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
