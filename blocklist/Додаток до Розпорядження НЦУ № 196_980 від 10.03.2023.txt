@@ -50,4 +50,4 @@ duty-tetrapak.com.ua
 #https://postavschiki.ua/product/13741.html
 #https://igvodka.store/product/vodka-pshenichnaya-10-l/
 besplatka.ua
-#https://ogolosha.ua/prod/prodaetsya-vodka-pshenichnaya-10-l-102-76-88YA.html
+ogolosha.ua
