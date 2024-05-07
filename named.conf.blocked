@@ -529,6 +529,7 @@ zone "alco-bar.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "alco-bar.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-bar.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-bazar.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-center.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-centr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-centr.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-drive.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -560,6 +561,7 @@ zone "alco-magnat.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "alco-market.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-market.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -571,6 +573,7 @@ zone "alco-pack.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "alco-party.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-party.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-pub.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-shop-net.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shop-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shop.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shopnet.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -592,6 +595,7 @@ zone "alco-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "alco-ua.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ukrain.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ukraina.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-ukraine.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ukrayn.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ukrayna.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ykrain.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -650,6 +654,7 @@ zone "alcopro.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "alcopro.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcopro.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcopro.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcopro.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcopro.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcopro.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcopro.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -712,6 +717,7 @@ zone "alko-plus.biz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "alko-smak.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-torg.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-torg.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alko-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-ua.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-ua.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko.ot.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -1163,6 +1169,7 @@ zone "bitcoinplay.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "bitdice.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitkingz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitsler.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bitspirt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitspirt.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitspirt.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitstarz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -1256,6 +1263,7 @@ zone "bus-donetsk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "bus-lugansk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bus.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "busfor-ua.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "business-news.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bustrip.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "buyprivat24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "buyyze.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -1994,6 +2002,7 @@ zone "elitalcoshop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "elite-alcohol.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elitochka.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elits-alcohol.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "elitsalcohol.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elitsalcohol.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elitsalkohol.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elitspirt.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -2282,6 +2291,8 @@ zone "for2paymarket.shop"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "for2payplus.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "for2payprof.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forbloggie.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "forex-brokers.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "forex-kitchen.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forex2gain.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forma-box.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forma24price.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -2370,6 +2381,7 @@ zone "fplnr.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "frankclubcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "frankfred.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "free-news.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "free-topic.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "free2payclub.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "free2paydom.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "free2payexpress.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -3588,6 +3600,7 @@ zone "luxe-96.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "luxe-96.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "luxe-96.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "luxe-96.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "luxe96.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "luxe96.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "luxe96.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "luxe96.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4227,6 +4240,7 @@ zone "mypayvip.pics"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "mypayweek.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "myprivat24.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "myprivatmebel.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "myspirt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "myspirt.pp.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mystake.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "myua-compensations.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4277,6 +4291,7 @@ zone "namepayplus.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "namepayportal.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "namepaytop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "naniga.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "narazliv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narazliv.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narazliv.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narazliv24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4366,6 +4381,7 @@ zone "news.rambler.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "news.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "newskog.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsland.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsmoke.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsoneua.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4736,6 +4752,7 @@ zone "opros-2023.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "opros2023.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "option-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "optpbank.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "orabote.name"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "orallichenplanuspedia.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "orca8826.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "order-com.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5496,8 +5513,10 @@ zone "pr0payservice.shop"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "practicum.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "praisecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prava-avto.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pravda-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravlife.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pravogolosa.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravoslavye.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prc6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "premier.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5733,6 +5752,7 @@ zone "pshenichna-vodka-kyev.com"	{ type master; file "/usr/local/etc/namedb/prim
 zone "pshenichna-vodkaua-kiyv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichna.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichna.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pshenichnagorilka.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaia.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaua-vodka-kiyv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnay-vodka-kiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5740,8 +5760,11 @@ zone "pshenichnay-vodka-kyev.com"	{ type master; file "/usr/local/etc/namedb/pri
 zone "pshenichnaya-vodka-kiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaya-vodka-kiyv.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaya-vodka-kiyv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pshenichnaya-vodka-kyiv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaya-vodka.kyiv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pshenichnaya.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenishna.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pshenisna.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pub-gos.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "public-pay.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pulpcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6037,6 +6060,7 @@ zone "sat-tan.app"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "savelife.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "saving4322.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sax-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "saxo-bank.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sbfplay99.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sbobet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sceptic.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6360,18 +6384,23 @@ zone "spirt-market.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "spirt-market.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-opt.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-opt.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt-opt.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-opt.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-opt.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-opt.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-plus.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt-prom.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt-torg.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torg.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torg.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torgua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt96.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt96.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt96.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt96.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt96.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtclub.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtclub.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtclub.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6382,9 +6411,11 @@ zone "spirtclub.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "spirtexpo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtexpo.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtik.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirtin.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtinua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtltd.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtmarket.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirtmarket.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtmarket.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtmarket.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtmarket.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6730,6 +6761,7 @@ zone "totaljointpedia.com"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "tppdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tq-dispays.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tradacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tranceservice.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trans-privat24.ga"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trans-privat24.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trans-privat24.tk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6949,7 +6981,9 @@ zone "ukr-next.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "ukr-ontime.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-payer.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-rescan.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukr-rus-bus.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-service.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukr-spirt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-spirt.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-uslugi.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr.rs.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6993,6 +7027,7 @@ zone "ukrsibbank.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "ukrsibbank.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrsibbank.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrsibk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukrspirt-market.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-market.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-market.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-market.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7141,6 +7176,7 @@ zone "vgl-sport.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "vgo523.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vgtrk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vi-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "video-forex.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "videoslots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "viju.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "villasiteleri.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

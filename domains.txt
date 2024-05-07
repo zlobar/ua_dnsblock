@@ -529,6 +529,7 @@ alco-bar.pro
 alco-bar.shop
 alco-bar.top
 alco-bazar.com
+alco-center.com
 alco-centr.com
 alco-centr.net
 alco-drive.net
@@ -560,6 +561,7 @@ alco-magnat.com
 alco-market.club
 alco-market.com
 alco-market.com.ua
+alco-market.net
 alco-market.online
 alco-market.org
 alco-market.pro
@@ -571,6 +573,7 @@ alco-pack.net
 alco-party.com
 alco-party.site
 alco-pub.org.ua
+alco-shop-net.com
 alco-shop-ua.com
 alco-shop.site
 alco-shopnet.biz
@@ -592,6 +595,7 @@ alco-ua.com
 alco-ua.shop
 alco-ukrain.com
 alco-ukraina.com
+alco-ukraine.com
 alco-ukrayn.com
 alco-ukrayna.com
 alco-ykrain.com
@@ -650,6 +654,7 @@ alcopro.me
 alcopro.online
 alcopro.org
 alcopro.pro
+alcopro.shop
 alcopro.site
 alcopro.today
 alcopro.website
@@ -712,6 +717,7 @@ alko-plus.biz.ua
 alko-smak.com.ua
 alko-torg.com
 alko-torg.org
+alko-ua.com
 alko-ua.net
 alko-ua.org
 alko.ot.ua
@@ -1163,6 +1169,7 @@ bitcoinplay.io
 bitdice.me
 bitkingz.com
 bitsler.com
+bitspirt.com
 bitspirt.online
 bitspirt.store
 bitstarz.com
@@ -1256,6 +1263,7 @@ bus-donetsk.com
 bus-lugansk.com
 bus.org.ua
 busfor-ua.site
+business-news.com.ua
 bustrip.pro
 buyprivat24.com
 buyyze.com
@@ -1994,6 +2002,7 @@ elitalcoshop.com
 elite-alcohol.com.ua
 elitochka.net
 elits-alcohol.com
+elitsalcohol.com
 elitsalcohol.com.ua
 elitsalkohol.com.ua
 elitspirt.store
@@ -2282,6 +2291,8 @@ for2paymarket.shop
 for2payplus.shop
 for2payprof.shop
 forbloggie.com
+forex-brokers.pro
+forex-kitchen.info
 forex2gain.com
 forma-box.ru
 forma24price.shop
@@ -2370,6 +2381,7 @@ fplnr.org
 frankclubcasino.com
 frankfred.com
 free-news.su
+free-topic.ru
 free2payclub.tech
 free2paydom.tech
 free2payexpress.tech
@@ -3588,6 +3600,7 @@ luxe-96.org.ua
 luxe-96.shop
 luxe-96.site
 luxe-96.store
+luxe96.com.ua
 luxe96.org
 luxe96.shop
 luxe96.site
@@ -4227,6 +4240,7 @@ mypayvip.pics
 mypayweek.shop
 myprivat24.top
 myprivatmebel.site
+myspirt.com
 myspirt.pp.ua
 mystake.bet
 myua-compensations.xyz
@@ -4277,6 +4291,7 @@ namepayplus.shop
 namepayportal.art
 namepaytop.shop
 naniga.ru
+narazliv.com
 narazliv.online
 narazliv.store
 narazliv24.online
@@ -4366,6 +4381,7 @@ news.rambler.ru
 news.yandex.ru
 news.yandex.ua
 newsdnr.ru
+newskog.ru
 newsland.com
 newsmoke.com.ua
 newsoneua.tv
@@ -4736,6 +4752,7 @@ opros-2023.top
 opros2023.top
 option-pay.com
 optpbank.xyz
+orabote.name
 orallichenplanuspedia.com
 orca8826.com
 order-com.me
@@ -5496,8 +5513,10 @@ pr0payservice.shop
 practicum.yandex.ru
 praisecasino.com
 prava-avto.site
+pravda-ua.com
 pravdnr.ru
 pravlife.org
+pravogolosa.net
 pravoslavye.org.ua
 prc6.site
 premier.one
@@ -5733,6 +5752,7 @@ pshenichna-vodka-kyev.com
 pshenichna-vodkaua-kiyv.com
 pshenichna.net.ua
 pshenichna.shop
+pshenichnagorilka.com
 pshenichnaia.net
 pshenichnaua-vodka-kiyv.com
 pshenichnay-vodka-kiev.com
@@ -5740,8 +5760,11 @@ pshenichnay-vodka-kyev.com
 pshenichnaya-vodka-kiev.com
 pshenichnaya-vodka-kiyv.biz
 pshenichnaya-vodka-kiyv.com
+pshenichnaya-vodka-kyiv.com
 pshenichnaya-vodka.kyiv.ua
+pshenichnaya.shop
 pshenishna.com
+pshenisna.com
 pub-gos.top
 public-pay.pw
 pulpcasino.com
@@ -6037,6 +6060,7 @@ sat-tan.app
 savelife.pw
 saving4322.com
 sax-pay.me
+saxo-bank.net
 sbfplay99.com
 sbobet.com
 sceptic.online
@@ -6360,18 +6384,23 @@ spirt-market.net.ua
 spirt-market.org.ua
 spirt-opt.cc
 spirt-opt.org
+spirt-opt.shop
 spirt-opt.site
 spirt-opt.store
 spirt-opt.vip
 spirt-plus.com.ua
+spirt-prom.com.ua
+spirt-torg.com
 spirt-torg.com.ua
 spirt-torg.net
 spirt-torgua.com
+spirt24.com
 spirt24.store
 spirt96.co
 spirt96.net
 spirt96.org
 spirt96.pro
+spirt96.store
 spirtclub.co
 spirtclub.com
 spirtclub.live
@@ -6382,9 +6411,11 @@ spirtclub.store
 spirtexpo.com
 spirtexpo.org
 spirtik.com.ua
+spirtin.in.ua
 spirtinua.com
 spirtltd.shop
 spirtmarket.com
+spirtmarket.com.ua
 spirtmarket.in.ua
 spirtmarket.shop
 spirtmarket.space
@@ -6730,6 +6761,7 @@ totaljointpedia.com
 tppdnr.ru
 tq-dispays.com
 tradacasino.com
+tranceservice.com
 trans-privat24.ga
 trans-privat24.me
 trans-privat24.tk
@@ -6949,7 +6981,9 @@ ukr-next.com
 ukr-ontime.com.ua
 ukr-payer.online
 ukr-rescan.com
+ukr-rus-bus.com
 ukr-service.top
+ukr-spirt.com
 ukr-spirt.store
 ukr-uslugi.top
 ukr.rs.gov.ru
@@ -6993,6 +7027,7 @@ ukrsibbank.site
 ukrsibbank.top
 ukrsibbank.website
 ukrsibk.com
+ukrspirt-market.com
 ukrspirt-market.org
 ukrspirt-market.pro
 ukrspirt-market.store
@@ -7141,6 +7176,7 @@ vgl-sport.ru
 vgo523.vip
 vgtrk.com
 vi-pay.me
+video-forex.com
 videoslots.com
 viju.ru
 villasiteleri.com
