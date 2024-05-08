@@ -3110,6 +3110,7 @@ zone "inpayweek.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "inst.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "instantpay-casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "instantpay-casino3.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "inter-return.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "interra.bz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "intertops.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "intrud.rk.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
