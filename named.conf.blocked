@@ -7166,6 +7166,7 @@ zone "vegasmaster.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "vegasplay.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vegasslotsonline.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "venera.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ventumconsult.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "verifpay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "verlookcontemplation.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "versia.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
