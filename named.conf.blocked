@@ -6846,6 +6846,7 @@ zone "u-dopomoga.website"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "u-pau.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "u-payment.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "u-wallet.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "u24gov.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ua-and-dopomoga.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ua-and-dopomogaa.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ua-app.tk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
