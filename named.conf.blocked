@@ -4768,6 +4768,7 @@ zone "opayment.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "opcrimea.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "opendata.avto-prava.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "opendata.avtoshkola.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "opendatahsc-gov.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oplata-3ds.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oplataukraine.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oplatnik.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
