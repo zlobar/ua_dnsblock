@@ -592,6 +592,7 @@ alco-ok.shop
 alco-pack.net
 alco-party.com
 alco-party.site
+alco-pub.net.ua
 alco-pub.org.ua
 alco-shop-net.com
 alco-shop-ua.com
@@ -634,6 +635,7 @@ alcodrink.com.ua
 alcodrive.net
 alcodrive.pro
 alcodrive.shop
+alcoduti.com
 alcoduty-club.com
 alcoduty-free.com.ua
 alcodutybar.shop
@@ -697,6 +699,7 @@ alcot0p.store
 alcotorg.com.ua
 alcotraffic.com.ua
 alcotraffic.net
+alcotraffik.net.ua
 alcotrafic.com.ua
 alcotrust.com.ua
 alcoua.com
@@ -711,6 +714,7 @@ alishop.kiev.ua
 alizerinkov.fun
 alk100.in.ua
 alka-karobka.com.ua
+alkhol.net.ua
 alko-butik.com.ua
 alko-duty-bar.com.ua
 alko-duty-bar.store
@@ -726,10 +730,12 @@ alko-lavka.net
 alko-lavka.net.ua
 alko-lavka.org
 alko-mag.com
+alko-mag.in.ua
 alko-mag.shop
 alko-mag.site
 alko-mag.website
 alko-magnat.com
+alko-market.pro
 alko-market.shop
 alko-market.site
 alko-market.top
@@ -1985,6 +1991,7 @@ drink-house.biz
 drink-house.site
 drink-house.top
 drink-king.org
+drink-shop.pro
 drinkcom.store
 drinkhouse.site
 drinkhouse.top
@@ -2767,6 +2774,7 @@ gorilka40.com
 gorilkaua.com
 gorilochka-ua.com
 gorilochka-ua.net
+gorilochka.biz.ua
 gorilochka.business.site
 gorilochka.com
 gorilochka.shop
@@ -3732,6 +3740,7 @@ los-gos.top
 los-tabacco.com.ua
 losb-pays.info
 lostarmour.info
+lostsmoke.com.ua
 loto-zoloto.net
 lotobar.com.ua
 lotoland.com
@@ -3761,6 +3770,7 @@ lugansk1.info
 lugarto.ru
 lukor.com.ua
 lutugino.su
+lux-96.com.ua
 lux-alco.com
 luxduti.com
 luxdutyx.com
@@ -3785,6 +3795,7 @@ luxury-3.gameassists.co.uk
 luxury-market.biz
 luxury-market.net
 luxurycasino.com
+luxxduti.com
 luxxduty.com
 luxxxduty.com
 lv24.top
@@ -5767,6 +5778,7 @@ premier.one
 premiercasino.com
 premierlivecasino.com
 premiumalco.shop
+premiumalco.world
 premiumdrinks.shop
 premiumdrinks.store
 premiumspirt.tilda.ws
@@ -5974,6 +5986,7 @@ pryton.cc
 psenichka.net
 psenichna-vodka-kieva.com
 psenichnaiy.net
+psenichnay-lux.net
 psenisna.com
 pseniychka.com.ua
 pseniychka.net
@@ -6468,8 +6481,11 @@ sigareti.com.ua
 sigareti.net.ua
 sigaretki.com
 sigaretki.com.ua
+sigaretki.store
 sigarety-optom.org
+sigarety.cc
 sigarety.com
+sigarvukr.info
 sigaua.com
 sigiiopt.info
 sigiopt.com
@@ -6653,6 +6669,7 @@ spinstarscasinos.com
 spinupcasino.com
 spinwinbooi.org
 spirasbar.kiev.ua
+spirit-pak.biz.ua
 spirit-pak.com.ua
 spiritshop.pro
 spirobar.com.ua
@@ -6666,6 +6683,7 @@ spirt-lyuks.net
 spirt-market.com
 spirt-market.net.ua
 spirt-market.org.ua
+spirt-opt.bar
 spirt-opt.cc
 spirt-opt.org
 spirt-opt.shop
@@ -6692,6 +6710,7 @@ spirtclub.online
 spirtclub.shop
 spirtclub.site
 spirtclub.store
+spirtclub.website
 spirtexpo.com
 spirtexpo.org
 spirtik.com.ua
@@ -6892,6 +6911,7 @@ t3mkehf6.tvclub.xyz
 tab-gil.com
 tabacco.com.ua
 tabaco.com.ua
+tabaco.in
 tabaco.in.ua
 tabaco.org.ua
 tabaco.pw
@@ -6958,6 +6978,7 @@ tetra-land.pro
 tetra-land.store
 tetra-land.top
 tetramarket.com.ua
+tetramarket.online
 tetramarketshop.com.ua
 tetramarketshopua.com
 tetramarketshopukr.com.ua
@@ -7019,6 +7040,7 @@ tk-union.tv
 tlintegration-eu.com
 tnt-online.ru
 to-receipt.com
+tobaccos.org.ua
 tobacos.com.ua
 tobacos.net
 tobacos.net.ua
@@ -7118,6 +7140,7 @@ tutunok.net
 tutunok.shop
 tutunok.top
 tutunok24.shop
+tutunok3.shop
 tutunok7.shop
 tutuns.com.ua
 tv-100.com
@@ -7351,6 +7374,7 @@ ukrspirt-trade.online
 ukrspirt-trade.org
 ukrspirtopt.com.ua
 ukrspirttrade.com.ua
+ukrspirttrade.top
 ukrstream.tv
 ukrtobacco.com.ua
 ukrtop.shop
@@ -7567,6 +7591,7 @@ vinted-pays.me
 vip-alco.com.ua
 vip-alco.net
 vip-alcohol.net
+vip-alkohol.net
 vip-casino-pm.com.ua
 vip-casino.com.ua
 vip-casino.org
@@ -7668,6 +7693,8 @@ vodka-market.shop
 vodka-market.store
 vodka-ua.luxe
 vodka10.biz.ua
+vodkam.shop
+vodkaprime.com.ua
 voicesevas.ru
 voinr-kiev.ru
 voinru.com
@@ -8126,6 +8153,7 @@ xn--b1aew.xn--l1ahm
 xn--b1akbpgy3fwa.xn--p1acf
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1abj0abs9d.in.ua
+xn--d1ahbgm1e2e.com
 xn--d1ahnhhx.su
 xn--h1aheeehel.xn--p1acf
 xn--kinogo--4jga.online
