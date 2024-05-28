@@ -7,6 +7,12 @@ foreach ($files as $fname) {
 	unset($file);
 	$file=file($fname);
 	foreach ($file as $line) {
+		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
+			$line=$matches[1];
+		}
+		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
+			$line=$matches[1];
+		}
 		$l=strtolower(trim($line));
 		$l=idn_to_ascii($l);
 		if ($l!="") {
@@ -21,6 +27,12 @@ foreach ($files as $fname) {
 	unset($file);
 	$file=file($fname);
 	foreach ($file as $line) {
+		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
+			$line=$matches[1];
+		}
+		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
+			$line=$matches[1];
+		}
 		list($l,)=explode("#",trim($line),2);
 		$l=strtolower($l);
 		$l=idn_to_ascii($l);
