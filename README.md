@@ -25,4 +25,4 @@ https://raw.githubusercontent.com/zlobar/ua_dnsblock/main/domains.txt
 2) включити його в конфіг unbound.conf **include-toplevel: "/etc/unbound/unbound.conf.d/*"** (або інший шлях де він буде)
 
 
-_Оновлено станом на 28.05.2024_
+_Оновлено станом на 07.06.2024_
