@@ -7404,7 +7404,6 @@ zone "tbk-shop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "tbkshop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tchaikovsky.af-stream.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "td-dispath.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "td.doubleclick.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "teamplay.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tebwin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tech-swat-team.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
