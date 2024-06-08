@@ -3815,6 +3815,7 @@ zone "kianews.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "kianews24.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kibrs6z3.tvclub.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kiev-donetsk-kiev.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kiev-girls.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kiev.coddyschool.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kiev.foundation"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kiev.strana.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4843,6 +4844,7 @@ zone "n1casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "n2.kinokrad.cam"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "n3.kinokrad.cam"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "n5.kinokrad.cam"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "naberu.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6880,6 +6882,7 @@ zone "sevastopol.press"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "sexkiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sexkompas.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexzakaz.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sf.education"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "shahtersk.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7808,6 +7811,7 @@ zone "ukrdoping.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "ukrdoping.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukreina-ua.ga"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrfarma.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukrgo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrhelp.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrpay-24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrpayment.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
