@@ -658,6 +658,7 @@ alco-shoppingtop.com
 alco-shoppingukr.com
 alco-shopua.com
 alco-sklad.com
+alco-sklad.net
 alco-store.com.ua
 alco-tetrapak-ua.shop
 alco-tetrapak.com
@@ -709,6 +710,7 @@ alcohome.com.ua
 alcohop.com
 alcoimperia.com
 alcolife.net
+alcoluxe.com
 alcomag.store
 alcomagnat.shop
 alcomain.com
@@ -718,6 +720,7 @@ alcomarket.fun
 alcomarket.in
 alcomarket.online
 alcomarket.top
+alcomarket.uno
 alcomein.com
 alcomol.com
 alcoopt.me
@@ -1399,6 +1402,7 @@ bootle.in.ua
 bopeconuc.com
 borengo.com
 bosstabaco.com
+bosstabaco.com.ua
 bot.legal
 bounty-casino13.com
 bounty-casino19.com
@@ -1718,6 +1722,7 @@ classyslots.com
 classyslots.xyz
 cleopatracasino.com
 cloudbet.com
+cloudy.com.ua
 club24prices.shop
 club2pay.shop
 club2pay0ne.shop
@@ -1952,6 +1957,7 @@ debt.wmtransfer.com
 dec0.site
 decard.me
 decentral.games
+dedtabak.com
 del-pays.me
 delivery-pay.me
 delivery.yandex.ru
@@ -2070,6 +2076,7 @@ dompayproduct.shop
 dompaystore.shop
 dompayweek.shop
 dompaywin.shop
+domtab.com
 domtab.com.ua
 domtabaka.biz
 domtabaka.com.ua
@@ -3753,6 +3760,7 @@ kabinetonline.uk
 kadrovik1.com.ua
 kahuna777.com
 kaiserslots.com
+kalyancity.com.ua
 kamelot.cc
 kanal-o.ru
 karabasmedia.com
@@ -3935,6 +3943,7 @@ kontrabas.com.ua
 kontrabas.net
 kontrabas.store
 konungcasino.com
+konyak.guru
 konyak.shop
 konyak.world
 koportas.ru
@@ -4682,6 +4691,7 @@ mprom.rk.gov.ru
 mpt-dnr.ru
 mpt.lpr-reg.ru
 mptdnr.ru
+mr-tabak.com.ua
 mrbit.bet
 mrespublika.ru
 mrgreen.com
@@ -6196,6 +6206,7 @@ prc6.site
 premier.one
 premiercasino.com
 premierlivecasino.com
+premiumalco.guru
 premiumalco.shop
 premiumalco.world
 premiumdrinks.shop
@@ -6936,6 +6947,7 @@ sigiopt.org.ua
 sigiopt.pw
 sigiopt.store
 sigiopts.info
+sigmir.com.ua
 silverplay.com
 simadm.ru
 simpacasino.com
@@ -7183,6 +7195,7 @@ spirts-net.com
 spirts-net.pro
 spirts-net.store
 spirts.co
+spirts.kyiv.ua
 spirts.shop
 spirttrade.com
 spirtukr.top
@@ -7368,6 +7381,7 @@ t0ppaywin.shop
 t3mkehf6.tvclub.xyz
 tab-gil.com
 tabacco.com.ua
+tabaccos.com.ua
 tabaco.com.ua
 tabaco.in
 tabaco.in.ua
@@ -7381,6 +7395,7 @@ tabak-gilza.com.ua
 tabak.in.net
 tabak.od.ua
 tabak.org.ua
+tabake.com.ua
 tabakerka.cx.ua
 tabakerka.pp.ua
 tabakevich.com
@@ -7499,12 +7514,14 @@ tk-union.tv
 tlintegration-eu.com
 tnt-online.ru
 to-receipt.com
+tobacco-shop.com.ua
 tobaccos.org.ua
 tobacos.com.ua
 tobacos.net
 tobacos.net.ua
 tobacos.org
 tobacos.org.ua
+tobakking.com.ua
 tochka.com
 today24price.shop
 todaynews.com.ua
@@ -7591,11 +7608,13 @@ tsars2.com
 tsars3.com
 tsiklnr.su
 ttr90.casa
+tuns.com.ua
 turbo-casino16.gg
 turbo-casino46.gg
 turbo-casino68.gg
 tuskcasino.com
 tutun.com.ua
+tutunok.com
 tutunok.in.ua
 tutunok.info
 tutunok.net
@@ -7623,6 +7642,7 @@ twin.com
 tx-dispath.me
 tx27-pay.site
 ty-receipt.me
+tyutyun-ukrainy.com.ua
 u-dopomoga.com
 u-dopomoga.life
 u-dopomoga.live
@@ -7971,6 +7991,7 @@ vandalvape.org
 vandalvape.shop
 vandalvape.store
 vapehub.org
+vapestore.in.ua
 vavada.com
 vavada.lol
 vavadaaadc.com
@@ -8628,6 +8649,7 @@ www.school-xyz.com
 www.shopspirt.com.ua
 www.sigarataua.shop
 www.sigarety-opt.com.ua
+www.sigarety.cc
 www.slotoking.bet
 www.smartwm.ru
 www.sobranie-casino.com
