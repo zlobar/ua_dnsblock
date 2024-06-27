@@ -7788,7 +7788,6 @@ zone "tabak.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "tabake.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakerka.cx.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakerka.pp.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "tabakevich.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabaki.co.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabaking.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakking.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
