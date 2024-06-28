@@ -3399,6 +3399,7 @@ zone "hd.kinogoo.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "hd.kinozapas.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hd.rezka.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hd1080p2.abaskino.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "hdrezka.ag"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.bio"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.com.by"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4028,6 +4029,7 @@ zone "kino-go.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "kino.tricolor.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kino24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo-2.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinogo-720.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo-by.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo-cc.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo-films.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4088,11 +4090,15 @@ zone "kinogo2.zone"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "kinogo24.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogoby.zone"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogohd.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinogoo.zone"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinokong.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad-tv.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.cx"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.day"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinokrad.fan"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinokrad.film"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4104,7 +4110,9 @@ zone "kinotochka.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "kinotochka.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinotochka.day"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinotochka.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinotochka.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinotochka.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinotron.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinozapas.ac"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinozapas.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinozapas.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4113,6 +4121,7 @@ zone "kinozapas.cx"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "kinozapas.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinozapas.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinozapas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinozed.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kion.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kirovskoe.ugletele.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kkinogo.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5013,6 +5022,7 @@ zone "mostbetua19.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "mostbetua20.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mostlywinner.bond"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mountgold.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "moviestape.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mozaika.dn.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mp12537883.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mp12567.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8131,8 +8141,12 @@ zone "ua4.ggpoker.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "uadostavka.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uadutyfree.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uafav0rit.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uaflix.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uagra.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uaid82826634.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uakino-bay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uakino-lu.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uakino.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ualosses.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uam-compensation.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uapay-next24.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8158,6 +8172,7 @@ zone "uapays.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "uaperekaz.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uappay.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uareceive.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uaserial.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uasiga.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uasiga.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uasiga.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
