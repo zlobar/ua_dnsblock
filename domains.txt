@@ -4293,7 +4293,7 @@ lkabinet.site
 ll.lv
 lnr.media
 lnr.today
-lobby.goldeneuro.com:3072
+lobby.goldeneuro.com
 lobby.raptorcasino.com
 lod-recheck.com
 loftschool.com
@@ -7942,7 +7942,6 @@ topkassaportal.shop
 topkassaservice.shop
 topkassavip.shop
 topmatch.win
-topmatch.win 
 topmatch11.win
 topmatch111.win
 topmatch123.win

@@ -4293,7 +4293,7 @@ zone "lkabinet.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "ll.lv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lnr.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lnr.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "lobby.goldeneuro.com:3072"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lobby.goldeneuro.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lobby.raptorcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lod-recheck.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "loftschool.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7942,7 +7942,6 @@ zone "topkassaportal.shop"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "topkassaservice.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "topkassavip.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "topmatch.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "topmatch.win "	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "topmatch11.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "topmatch111.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "topmatch123.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
