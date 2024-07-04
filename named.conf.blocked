@@ -8734,6 +8734,7 @@ zone "vodka10.biz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "vodkam.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodkam.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodkaprime.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "voiceofeurope.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voicesevas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voinr-kiev.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voinru.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
