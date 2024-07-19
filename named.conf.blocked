@@ -2838,6 +2838,7 @@ zone "events-pay.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "events.wmtransfer.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ever-gos.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "everest-bet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "everumcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "everumcasino.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "everumcasino9.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "everygame.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -3418,6 +3419,7 @@ zone "go5fav.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "go6fav.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gobigslots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "godbunny.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "goldcup24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goldcup365.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "golddragon88.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "golden-game55.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
