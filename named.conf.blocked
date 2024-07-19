@@ -1660,6 +1660,7 @@ zone "brillx51.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "brillx53.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brillx54.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brillx55.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "brillx55gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brillx56.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "britainbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "britannia-kaliningrad.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
