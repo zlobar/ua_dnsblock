@@ -2372,6 +2372,7 @@ zone "domtab.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "domtab.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "domtabaka.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "domtabaka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "domtabaka.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donate.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donbass-insider.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donbass.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7158,6 +7159,7 @@ zone "pshenichnaya-vodka-kyiv.com"	{ type master; file "/usr/local/etc/namedb/pr
 zone "pshenichnaya-vodka.kyiv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenichnaya.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenishna.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pshenishnayavodka.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pshenisna.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pub-gos.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "public-pay.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7805,6 +7807,7 @@ zone "sm.hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "smartmoney.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smi2.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "smoke-club.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-club.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-club.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-shop.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7934,6 +7937,7 @@ zone "spirt-torg.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "spirt-torg.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torg.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torgua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt.luxe"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt96.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8068,6 +8072,7 @@ zone "stoletie.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "stolichnyy-market.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "stolichnyy-market.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "stolichnyy-market.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "stolichnyy.market"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "stoloto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "stopmina.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "strana.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8186,6 +8191,7 @@ zone "tabaco.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "tabaco.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabacom.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabacopt.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tabacos.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabacos.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabacos.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak-gilza.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8317,8 +8323,11 @@ zone "tlintegration-eu.com"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "tnt-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "to-receipt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacco-shop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tobacco-shop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tobacco.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobaccos.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobaccos.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tobaccoshop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8668,6 +8677,7 @@ zone "ukrspirt-market.com"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "ukrspirt-market.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-market.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-market.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukrspirt-trade.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-trade.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-trade.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrspirt-trade.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8813,6 +8823,7 @@ zone "vandalvape.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "vandalvape.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vandalvape.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vapehub.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vapehub.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vapestore.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vavada-bonuses.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vavada-nagrada.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9635,6 +9646,7 @@ zone "xn--24-6kcioropy.site"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "xn--80aafc4bdoy.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80aaflwglemhmr6f.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80aapsbdipuw.xn--j1amh"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--80afo0afedo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80ankicu1fva.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--90adzbis.xn--c1avg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aasebc0aargg1d.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

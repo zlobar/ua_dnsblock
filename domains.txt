@@ -2372,6 +2372,7 @@ domtab.com
 domtab.com.ua
 domtabaka.biz
 domtabaka.com.ua
+domtabaka.org.ua
 donate.qiwi.com
 donbass-insider.com
 donbass.media
@@ -7158,6 +7159,7 @@ pshenichnaya-vodka-kyiv.com
 pshenichnaya-vodka.kyiv.ua
 pshenichnaya.shop
 pshenishna.com
+pshenishnayavodka.com
 pshenisna.com
 pub-gos.top
 public-pay.pw
@@ -7805,6 +7807,7 @@ sm.hd-kinogo.co
 smartmoney.com.ua
 smdnr.ru
 smi2.ru
+smoke-club.info
 smoke-club.net
 smoke-club.online
 smoke-shop.in.ua
@@ -7934,6 +7937,7 @@ spirt-torg.com
 spirt-torg.com.ua
 spirt-torg.net
 spirt-torgua.com
+spirt.luxe
 spirt24.com
 spirt24.store
 spirt96.co
@@ -8068,6 +8072,7 @@ stoletie.ru
 stolichnyy-market.com
 stolichnyy-market.net
 stolichnyy-market.store
+stolichnyy.market
 stoloto.ru
 stopmina.com
 strana.best
@@ -8186,6 +8191,7 @@ tabaco.org.ua
 tabaco.pw
 tabacom.com.ua
 tabacopt.in.ua
+tabacos.com.ua
 tabacos.in.ua
 tabacos.org.ua
 tabak-gilza.com.ua
@@ -8317,8 +8323,11 @@ tlintegration-eu.com
 tnt-online.ru
 to-receipt.com
 tobacco-shop.com.ua
+tobacco-shop.shop
+tobacco.net.ua
 tobaccos.net.ua
 tobaccos.org.ua
+tobaccoshop.shop
 tobacos.com.ua
 tobacos.net
 tobacos.net.ua
@@ -8668,6 +8677,7 @@ ukrspirt-market.com
 ukrspirt-market.org
 ukrspirt-market.pro
 ukrspirt-market.store
+ukrspirt-trade.com.ua
 ukrspirt-trade.me
 ukrspirt-trade.net
 ukrspirt-trade.online
@@ -8813,6 +8823,7 @@ vandalvape.org
 vandalvape.shop
 vandalvape.store
 vapehub.org
+vapehub.org.ua
 vapestore.in.ua
 vavada-bonuses.xyz
 vavada-nagrada.xyz
@@ -9635,6 +9646,7 @@ xn--24-6kcioropy.site
 xn--80aafc4bdoy.xn--p1ai
 xn--80aaflwglemhmr6f.xn--p1ai
 xn--80aapsbdipuw.xn--j1amh
+xn--80afo0afedo.com
 xn--80ankicu1fva.xn--p1ai
 xn--90adzbis.xn--c1avg
 xn--b1aasebc0aargg1d.xn--p1ai
