@@ -9860,6 +9860,7 @@ zone "wintokens.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "wintomato.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "winwin.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "winzon.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "wirtcon.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wirwetten.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wjpeso118.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wkiapjmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
