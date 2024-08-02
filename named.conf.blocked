@@ -7651,6 +7651,9 @@ zone "reporter-crimea.ru"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "republic-tv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "request-pay.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "res-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "reserveplusmodgovua.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "reserveplusmodgovua.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "reserveplusmodgovua.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "reservesell.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "respin.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "retarus.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
