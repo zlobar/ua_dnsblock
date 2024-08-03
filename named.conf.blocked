@@ -689,6 +689,7 @@ zone "akciatv.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "akciatv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akhmetovfoundation.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alacritas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "aladin.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alburnus.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alc-ukr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alc-ukraina.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -3726,6 +3727,7 @@ zone "green-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "green-market.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "greenplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "griffoncasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "grizzlyhookah.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "grokassa.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "grompoker.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "grompoker33.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
