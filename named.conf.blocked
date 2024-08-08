@@ -5650,6 +5650,7 @@ zone "mriya.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "mrking.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrpapiros.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mrqz.to"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrsking.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mry5bk.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "msdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
