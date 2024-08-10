@@ -1701,6 +1701,7 @@ zone "bonus.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "bonusbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bonusblitz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bonustoto.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bookmaker-ratings.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmaker-ratings.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmaker.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmate.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
