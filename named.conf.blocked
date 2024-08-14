@@ -1184,6 +1184,7 @@ zone "astekbet-400832.top"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "astekbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "astrabet.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "asx-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "at.dublikat.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "atfan-sport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "atlanticspins.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "atmbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9555,6 +9556,7 @@ zone "vitrina.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "viupommb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vlfeshop0.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vlmi.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vmakeevke.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodadonbassa.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodds.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
