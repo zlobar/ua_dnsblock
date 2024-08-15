@@ -7539,6 +7539,7 @@ zone "qizilbilet-62372.top"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "qizilbilet-79014.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qizilbilet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qnext24.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "qoqaz.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qp-info.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qr.mnpay4rm.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qr.sdsutm.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
