@@ -1602,6 +1602,9 @@ zone "bison.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "bistro.avto-prava.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bit-spirt.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bit4win.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bitcapital.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bitcapital.cash"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bitcapital.gold"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitcasino.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitcasino11.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bitcoincasino.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8688,6 +8691,7 @@ zone "the-kinogo.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "the-kinogo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "the-kinogo.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "the24dayprice.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "thebitcapital.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "thebreakingbreadbakery.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "theclubhousecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "thejointcannabis.ca"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

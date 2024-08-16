@@ -1602,6 +1602,9 @@ bison.casino
 bistro.avto-prava.store
 bit-spirt.online
 bit4win.com
+bitcapital.best
+bitcapital.cash
+bitcapital.gold
 bitcasino.io
 bitcasino11.io
 bitcoincasino.io
@@ -8688,6 +8691,7 @@ the-kinogo.biz
 the-kinogo.com
 the-kinogo.net
 the24dayprice.shop
+thebitcapital.com
 thebreakingbreadbakery.com
 theclubhousecasino.com
 thejointcannabis.ca
