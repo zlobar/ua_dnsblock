@@ -5664,6 +5664,7 @@ zone "mshiplnr.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "mshiplnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "msk.top-academy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mskagency.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "msl.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mslnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mspayment.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mspayment.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9151,6 +9152,7 @@ zone "unioplaty.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "unisefdop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "universalbank.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "universe.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "unl.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unl1mcasino.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unlimcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unlimcasino1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

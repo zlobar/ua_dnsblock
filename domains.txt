@@ -5664,6 +5664,7 @@ mshiplnr.lpr-reg.ru
 mshiplnr.su
 msk.top-academy.ru
 mskagency.ru
+msl.ua
 mslnr.su
 mspayment.me
 mspayment.site
@@ -9151,6 +9152,7 @@ unioplaty.store
 unisefdop.com
 universalbank.uk
 universe.qiwi.com
+unl.ua
 unl1mcasino.me
 unlimcasino.com
 unlimcasino1.com
