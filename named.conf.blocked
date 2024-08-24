@@ -1739,6 +1739,8 @@ zone "bq-deals.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "br-12541.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "br.melbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "br.nomadgames.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "braslet.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "braslet925.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brasleta.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brfan-sport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brillx.gg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -10010,6 +10012,7 @@ zone "www.duty-free-shopp.online"	{ type master; file "/usr/local/etc/namedb/pri
 zone "www.dutyfree.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.eg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.elitopt.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.eurobus-tour.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.euslot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.fastpay-casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.fon.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
