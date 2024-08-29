@@ -2314,6 +2314,7 @@ zone "csgopositive.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "cslotv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ctrana.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ctrana.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ctrana.newsversia.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ctrana.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cube24.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cuerama.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5489,6 +5490,7 @@ zone "mintek-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "mintop.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintrans.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintranslnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mintrud.gov-dpr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintrud.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintrudlnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -10169,6 +10171,7 @@ zone "xn--80aafc4bdoy.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/prima
 zone "xn--80aaflwglemhmr6f.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80aapsbdipuw.xn--j1amh"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80afo0afedo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--80ahqgjaddr.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80ankicu1fva.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--90adzbis.xn--c1avg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aasebc0aargg1d.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

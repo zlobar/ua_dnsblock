@@ -2314,6 +2314,7 @@ csgopositive.me
 cslotv.com
 ctrana.media
 ctrana.news
+ctrana.newsversia.ru
 ctrana.online
 cube24.top
 cuerama.org
@@ -5489,6 +5490,7 @@ mintek-dnr.ru
 mintop.su
 mintrans.lpr-reg.ru
 mintranslnr.su
+mintrud.gov-dpr.ru
 mintrud.lpr-reg.ru
 mintrudlnr.su
 minuet.biz
@@ -10169,6 +10171,7 @@ xn--80aafc4bdoy.xn--p1ai
 xn--80aaflwglemhmr6f.xn--p1ai
 xn--80aapsbdipuw.xn--j1amh
 xn--80afo0afedo.com
+xn--80ahqgjaddr.xn--p1ai
 xn--80ankicu1fva.xn--p1ai
 xn--90adzbis.xn--c1avg
 xn--b1aasebc0aargg1d.xn--p1ai
