@@ -7612,6 +7612,7 @@ zone "practicum.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "praisecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prava-avto.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravda-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pravda.red"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravlife.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pravogolosa.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
