@@ -4841,6 +4841,7 @@ zone "juegaenlinea.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jus321.host"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "justice-league.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justiceforalldinner.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpay24.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpaybalance.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -11079,6 +11080,7 @@ zone "wordpayinfo.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "wordpayname.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wordpaytime.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wordpaytop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "work-today.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "worldpayclub.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "worldpayday.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "worldpaydom.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
