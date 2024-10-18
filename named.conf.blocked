@@ -1347,6 +1347,7 @@ zone "avtodocuments.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "avtomaty.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "avtopribor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awardmegood.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "awayborder.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awdzhpmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "axwin.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "axwin.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -2361,6 +2362,7 @@ zone "cirk.dn.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "citi-banking.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "citydr.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cityexplainer.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "civildefense.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "clan13.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "clan13.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "clashofslots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -3169,6 +3171,7 @@ zone "edu.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "eduson.academy"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "edz.mcfr.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ee-sultangames-1551.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "efir.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "eg888starz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "egamingbet.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "egb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4548,6 +4551,7 @@ zone "infopaytop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "infopayuser.pics"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "infopayvip.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inforeactor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "informiran.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "infovestnik.blogspot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inkasacentr.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inkasaclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
