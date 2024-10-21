@@ -2901,6 +2901,7 @@ zone "dopomogavidecvsim.online"	{ type master; file "/usr/local/etc/namedb/prima
 zone "dopomogaze.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogga.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogy24.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dopomoha-z-vyizdom.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "downloads.gratowin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "doy6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dp.uz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8158,6 +8159,7 @@ zone "private24-next.cyou"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "privatpay.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "privatpays.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "privecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "prizova.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prj4-3423r2.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prj4ex-853.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "prj4ex-885.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -10155,6 +10157,7 @@ zone "ur-littlepays.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "ur-littlepays.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uralpress.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urepayment.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "urist-compani-ukr24.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urist.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urpay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urpayment.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -10907,6 +10910,7 @@ zone "vvadagami.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "vvadaplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vx-dispay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vy0.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vyizd-za-kordon.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vyplata-24ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vyplata-privat24.cyou"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vyplata-privat24.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
