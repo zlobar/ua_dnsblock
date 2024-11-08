@@ -1,9 +1,20 @@
+
+'
+
+
+
 jp
 ;[c
 
+cyihn{
 %
 %%eof
+%m
 %pdf-1.5
+&
+)j
+*(9@
++
 041game.website
 0k3vnn213wmst.com
 0mp4ep.cn
@@ -154,9 +165,11 @@
 13.net
 1303joycasino.com
 1312.site
+135 0 obj
 13betitall7.com
 13goxbet.com
 144mariobet.com
+145 0 obj
 146mariobet.com
 148betorder.com
 14goxbet.com
@@ -356,11 +369,14 @@
 24topkassa.shop
 24tr.com.ua
 24unicef.org
+25 0 obj
 256game.host
 26 0 obj
+27 0 obj
 27jokerland.com
 28 0 obj
 284game.fun
+29 0 obj
 29jokerland.com
 2aepvqh.xyz
 2bets60.com
@@ -448,8 +464,10 @@
 34jokerland.com
 35 0 obj
 354dir.org
+36 0 obj
 365cash.co
 36jokerua.top
+37 0 obj
 38jokerland.com
 38wmv8yeaa.pro
 39dw.only4.tv
@@ -508,7 +526,9 @@
 45jokerua.top
 45pledoo2.com
 46 0 obj
+475499
 47jokerua.top
+49 0 obj
 490bets10.com
 4cus.net
 4dudebet.com
@@ -530,6 +550,7 @@
 500vulkanvegas.com
 507042
 507vulkanvegas.com
+52 0 obj
 53jokerua.top
 55id.site
 567money.host
@@ -673,6 +694,7 @@
 <<
 >>
 @
+`
 a-akr.com
 a-dop.info
 a-dopomoga.org.ua
@@ -2644,6 +2666,7 @@ cyclowiki.org
 cygarky.kyiv.ua
 cypruscasinos.com
 cyshippingstrategy.com
+d
 d-hydra.com
 d.kinogo-filmov.net
 d.nd-kinogo.co
@@ -4424,6 +4447,7 @@ hw-dispath.com
 hwgr.me
 hx-pay.me
 hypercasino.com
+i
 i-don.ru
 i-dopomoga.com
 i-edem.tv
@@ -5534,6 +5558,7 @@ m.vbet20.com
 m.vbetua.com
 m.vbetua1.com
 m24.ru
+m=
 mac.wf
 madmoneycasino.com
 madrush.com
@@ -8464,6 +8489,7 @@ rbj-survey.top
 rbk.media
 rcclub.cc
 rck-pay.me
+rcm
 rcqf9xq3ramb.com
 rcvip.one
 rcz-dnr.ru
@@ -8737,6 +8763,7 @@ rysebet.com
 rysebet1.com
 rysebet2.com
 rzh4wi4.xyz
+s
 s-brama.kiev.ua
 s-pay.site
 s.kinokradx.co
@@ -11444,6 +11471,7 @@ xn--80afo0afedo.com
 xn--80ahqgjaddr.xn--p1ai
 xn--80ankicu1fva.xn--p1ai
 xn--90adzbis.xn--c1avg
+xn--;?2-i2b
 xn--b1aasebc0aargg1d.xn--p1ai
 xn--b1aea3ais.xn--p1acf
 xn--b1aew.xn--l1ahm
@@ -11454,6 +11482,7 @@ xn--d1ahahm1eza.com
 xn--d1ahbgm1e2e.com
 xn--d1ahbgm1e2e.net
 xn--d1ahnhhx.su
+xn--gda
 xn--h1aheeehel.xn--p1acf
 xn--i6-d7d
 xn--kgxrv-kph
@@ -11725,5 +11754,8 @@ zugres.ugletele.com
 zup4uvl.xyz
 zy4fat4.pw
 zyngapoker.com
+|
+|<
+|i
 ~e
 
