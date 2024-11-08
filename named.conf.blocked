@@ -11322,6 +11322,7 @@ zone "www.rt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "www.schambala.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.school-xyz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.shopspirt.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.shturm.army"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.sigarataua.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.sigarety-opt.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.sigarety-opt.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
