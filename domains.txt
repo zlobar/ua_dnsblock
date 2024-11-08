@@ -1,5 +1,7 @@
+
 
 '
+c
 
 
 
@@ -7,10 +9,14 @@
 
 ;[c
 6
+t
 h
+w
 
 cyihn{
 h1
+!
+"
 %
 %%eof
 %m
@@ -182,6 +188,8 @@
 14goxbet.com
 14topmatch.com
 15jokerua.top
+164 0 obj
+173 0 obj
 17jokerland.com
 17jokerua.top
 190vin.org
@@ -312,6 +320,7 @@
 21.red
 21betitall2.com
 21casino.com
+22 0 obj
 22bet.com
 22jokerua.top
 232vivo.com
@@ -459,6 +468,7 @@
 3.ivicasino9.com
 30 0 obj
 30jokerua.top
+31 0 obj
 32 0 obj
 320meg.org
 321cryptocasino.com
@@ -527,11 +537,13 @@
 40 0 obj
 407vulkan-vegs.com
 40jokerua.top
+41 0 obj
 42 0 obj
 425vulkanvegas.com
 43 0 obj
 437game.site
 4395.fun
+44 0 obj
 44jokerland.com
 45 0 obj
 456win.pw
@@ -566,6 +578,7 @@
 507vulkanvegas.com
 52 0 obj
 53jokerua.top
+551119
 55id.site
 567money.host
 56jokerland.com
@@ -707,9 +720,12 @@
 9johnny24.com
 9nolimitway.com
 9slottica.com
+;
 <<
+==
 >>
 @
+[*
 \
 `
 a-akr.com
@@ -6852,6 +6868,7 @@ ninbet.com
 nitrospins.com
 nj.betmgm.com
 nj3lwysnawmb.com
+nk
 nlcasino.com
 nm-g.ru
 no-pay.me
@@ -7302,6 +7319,7 @@ ox-recheck.com
 oxforce.org.ua
 ozon.ru
 ozwincasino.com
+p
 p-help.cloud
 p-help.icu
 p-help.online
@@ -8456,6 +8474,7 @@ quantifiedhacks.com
 quebra777.com
 queenspins.com
 qw-dispay.com
+r
 r065wic.com
 r0lmvcm.pw
 r234mic.com
@@ -9596,6 +9615,7 @@ sykaaa49.com
 sysminb.ddns.net
 szstakhanov.su
 t
+t,j,
 t0bkw6r.pw
 t0ppay2link.shop
 t0ppaybest.shop
@@ -11023,6 +11043,7 @@ vyplatydop.space
 vyplatydop.store
 vz-pay.me
 vz.ru
+w
 w-dopomoga.co
 w-dopomoga.com
 w-dopomoga.life
@@ -11488,6 +11509,7 @@ xn----8sbmbaqpudl3am6d1d.xn--p1ai
 xn----dtbhaboftg0cje.net
 xn----dtbrg3ale.xn--p1ai
 xn----ftbdby1aamd0evc.xn--p1ai
+xn--05a
 xn--24-6kch3a5bht.com.ua
 xn--24-6kcioropy.site
 xn--5-n4c
@@ -11512,6 +11534,7 @@ xn--d1ahnhhx.su
 xn--gda
 xn--h1aheeehel.xn--p1acf
 xn--i6-d7d
+xn--ina
 xn--kgxrv-kph
 xn--kinogo--4jga.online
 xn--kinogohd-xn3d.one
@@ -11766,6 +11789,7 @@ zigzagsport.com
 zikua.tv
 zimua.online
 zixcasino.com
+zj=
 zloslot.com
 zno.yandex.ua
 zodiac.casino
@@ -11784,6 +11808,7 @@ zy4fat4.pw
 zyngapoker.com
 z~nb
 {t@(;9
+{
 |
 |<
 |i
