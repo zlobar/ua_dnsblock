@@ -9,6 +9,7 @@ zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jp"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ";[c"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "6"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "b"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -18,8 +19,12 @@ zone "w"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cyihn{"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "\"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "h1"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone ""	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "!"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone """	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "%"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -262,6 +267,7 @@ zone "1unlimcasino03.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "1unlimcasino04.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "1unlimcasino05.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "1vin.co.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "1w"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "1wbmef.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "1wcltt.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "1woas.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -565,6 +571,7 @@ zone "47jokerua.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "48 0 obj"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "486466"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "49 0 obj"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "490819"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "490bets10.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "4cus.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "4dudebet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -727,6 +734,7 @@ zone "968vulkanvegas4.com"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "97jokerua.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "984money.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "985vulkanvegas4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "9f2"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "9goxbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "9iomh5u0ogmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "9johnny24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -735,12 +743,14 @@ zone "9slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone ";"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "<<"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "=="	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone ">"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone ">>"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "@"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "[*"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "\"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "\v"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "^v"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "_"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "`"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "a-akr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "a-dop.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -11060,6 +11070,7 @@ zone "vyplatydop.store"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "vz-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vz.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "w"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "w+"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "w-dopomoga.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "w-dopomoga.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "w-dopomoga.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -11538,6 +11549,7 @@ zone "xn--80ahqgjaddr.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/prima
 zone "xn--80ankicu1fva.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--90adzbis.xn--c1avg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--;?2-i2b"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--<nl-g7b"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aasebc0aargg1d.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aea3ais.xn--p1acf"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aew.xn--l1ahm"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -11560,7 +11572,9 @@ zone "xn--kko-red.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "xn--lfedon-pvf.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--lko-mag-1fg.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--mstk-53d0gyhb.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--p-sua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--parwn-p2eb.xn--n-evb.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--t-wh6g"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xpaid0rg.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xpaidclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xpaiddom.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

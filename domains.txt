@@ -9,6 +9,7 @@
 
 jp
 
+
 ;[c
 6
 b
@@ -18,8 +19,12 @@
 
 
 cyihn{
+
+\
+
 h1
 
+
 !
 "
 %
@@ -262,6 +267,7 @@
 1unlimcasino04.com
 1unlimcasino05.com
 1vin.co.ua
+1w
 1wbmef.top
 1wcltt.top
 1woas.top
@@ -565,6 +571,7 @@
 48 0 obj
 486466
 49 0 obj
+490819
 490bets10.com
 4cus.net
 4dudebet.com
@@ -727,6 +734,7 @@
 97jokerua.top
 984money.pw
 985vulkanvegas4.com
+9f2
 9goxbet.com
 9iomh5u0ogmb.com
 9johnny24.com
@@ -735,12 +743,14 @@
 ;
 <<
 ==
+>
 >>
 @
 [*
 \
 \v
 ^v
+_
 `
 a-akr.com
 a-dop.info
@@ -11060,6 +11070,7 @@ vyplatydop.store
 vz-pay.me
 vz.ru
 w
+w+
 w-dopomoga.co
 w-dopomoga.com
 w-dopomoga.life
@@ -11538,6 +11549,7 @@ xn--80ahqgjaddr.xn--p1ai
 xn--80ankicu1fva.xn--p1ai
 xn--90adzbis.xn--c1avg
 xn--;?2-i2b
+xn--<nl-g7b
 xn--b1aasebc0aargg1d.xn--p1ai
 xn--b1aea3ais.xn--p1acf
 xn--b1aew.xn--l1ahm
@@ -11560,7 +11572,9 @@ xn--kko-red.tv
 xn--lfedon-pvf.com.ua
 xn--lko-mag-1fg.in.ua
 xn--mstk-53d0gyhb.su
+xn--p-sua
 xn--parwn-p2eb.xn--n-evb.ua
+xn--t-wh6g
 xpaid0rg.shop
 xpaidclub.shop
 xpaiddom.shop
