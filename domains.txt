@@ -4,15 +4,20 @@
 
 
 jp
+
 ;[c
+6
+h
 
 cyihn{
+h1
 %
 %%eof
 %m
 %pdf-1.5
 &
 )j
+*
 *(9@
 +
 041game.website
@@ -159,6 +164,7 @@
 1238bets10.com
 123bossgame.com
 123proxy.cool
+127 0 obj
 127jili.com
 128 0 obj
 12goxbet.com
@@ -166,6 +172,7 @@
 1303joycasino.com
 1312.site
 135 0 obj
+136 0 obj
 13betitall7.com
 13goxbet.com
 144mariobet.com
@@ -224,6 +231,7 @@
 1n9dzux.xyz
 1op.expertus.ua
 1prime.ru
+1r
 1rajbet.in
 1royspins52.com
 1sev.tv
@@ -298,6 +306,7 @@
 1xslots-online.com
 1xsone.com
 1xstavka.ru
+2
 2.2.50zigzag777.com
 2.telek.me
 21.red
@@ -448,6 +457,7 @@
 3.egocasino3.com
 3.egocasino4.com
 3.ivicasino9.com
+30 0 obj
 30jokerua.top
 32 0 obj
 320meg.org
@@ -468,6 +478,7 @@
 365cash.co
 36jokerua.top
 37 0 obj
+38 0 obj
 38jokerland.com
 38wmv8yeaa.pro
 39dw.only4.tv
@@ -516,11 +527,13 @@
 40 0 obj
 407vulkan-vegs.com
 40jokerua.top
+42 0 obj
 425vulkanvegas.com
 43 0 obj
 437game.site
 4395.fun
 44jokerland.com
+45 0 obj
 456win.pw
 458money.fun
 45jokerua.top
@@ -549,6 +562,7 @@
 500play.com
 500vulkanvegas.com
 507042
+507836
 507vulkanvegas.com
 52 0 obj
 53jokerua.top
@@ -565,6 +579,7 @@
 5q6f178.cn
 5royspins55.com
 5topmatch.com
+6,
 60jokerland.com
 62slottica.com
 630db58a22710.site123.me
@@ -669,6 +684,7 @@
 8topmatch.com
 8uz6sn2.xyz
 8vulkanvegas.com
+9
 90jokerua.top
 90orca88.com
 90slottica.com
@@ -694,6 +710,7 @@
 <<
 >>
 @
+\
 `
 a-akr.com
 a-dop.info
@@ -3195,6 +3212,7 @@ dutyshop.pro
 dydenko.fun
 dzakupivli1.com.ua
 dzhankoy.rk.gov.ru
+e'
 e-dopomoga.club
 e-dopomoga.com.ua
 e-dopomoga.group
@@ -5242,6 +5260,7 @@ kvitum.com
 kyivmnu.com
 kyivstarbezlim.com
 kzfan-sport.com
+l
 l3kurfmb.com
 labirint.ru
 labrc.cc
@@ -5543,6 +5562,7 @@ lvov.strana.news
 lvov.strana.one
 lvov.strana.today
 lwr.com.ua
+m
 m-dopomoga.info
 m-edopomoga.online
 m-edopomoga.site
@@ -6588,6 +6608,7 @@ n
 n-1casino.com
 n.kinogo-filmov.net
 n.maps.yandex.ru
+n.
 n1bet.com
 n1casino.com
 n2.kinokrad.cam
@@ -6921,6 +6942,7 @@ nv-pay.me
 nvk9.ks.ua
 nx-dispay.me
 nyko.com.ua
+o
 o-dopomoga.com
 o-dopomoga.net
 o-dopomoga.xyz
@@ -7129,6 +7151,8 @@ oon.foundation
 oondopomoga.me
 oonukrainehelps.com
 oonvuplata.online
+ooo
+op[
 opalennya.lviv.ua
 opap.gr
 opayment.me
@@ -8396,6 +8420,7 @@ pusp-pays.me
 pusp-pays.shop
 pv-receipt.com
 pvp.mx
+q
 q.opv2pay.com
 qa-dispays.com
 qa.studio
@@ -11451,6 +11476,7 @@ ximko.vip
 xml.yandex.ru
 xml.yandex.ua
 xmrfqvoi.tvclub.xyz
+xn---k1b
 xn----7sbahmg5af5dr7b.com.ua
 xn----7sbaibsrbdgjg2ajh3avggdk9e.xn--p1ai
 xn----7sbb4avoiu9b.in.ua
@@ -11464,6 +11490,7 @@ xn----dtbrg3ale.xn--p1ai
 xn----ftbdby1aamd0evc.xn--p1ai
 xn--24-6kch3a5bht.com.ua
 xn--24-6kcioropy.site
+xn--5-n4c
 xn--80aafc4bdoy.xn--p1ai
 xn--80aaflwglemhmr6f.xn--p1ai
 xn--80aapsbdipuw.xn--j1amh
@@ -11544,6 +11571,7 @@ xyz574.com
 xyz621.com
 xyz715.com
 xyz835.com
+yw_j
 y-dopomoga.life
 y-dopomoga.site
 y-pai.me
@@ -11754,6 +11782,8 @@ zugres.ugletele.com
 zup4uvl.xyz
 zy4fat4.pw
 zyngapoker.com
+z~nb
+{t@(;9
 |
 |<
 |i
