@@ -1,9 +1,11 @@
 
+:
 
 '
 k
 c
 k\
+9
 
 
 
@@ -20,22 +22,28 @@
 
 cyihn{
 
+
 \
+
 
 h1
 
+
 
 !
+!%*+
 "
 %
 %%eof
 %m
 %pdf-1.5
 &
+)
 )j
 *
 *(9@
 +
++[
 ,
 041game.website
 0k3vnn213wmst.com
@@ -201,7 +209,9 @@
 154 0 obj
 15jokerua.top
 164 0 obj
+167 0 obj
 173 0 obj
+176 0 obj
 17jokerland.com
 17jokerua.top
 190vin.org
@@ -422,6 +432,7 @@
 2gis.ua
 2goxbet.com
 2johnny24.com
+2p
 2paid0ne.shop
 2paid0nline.shop
 2paidbest.shop
@@ -476,6 +487,7 @@
 2q75pgo6gtmb.com
 2royspins71.com
 2upaff.com
+3.
 3.2.50zigzag777.com
 3.egocasino3.com
 3.egocasino4.com
@@ -494,6 +506,7 @@
 33tsars.com
 34 0 obj
 346win.host
+349>>
 349win.website
 34jokerland.com
 35 0 obj
@@ -588,6 +601,7 @@
 5-tv.ru
 5.argocasino50.com
 5.ivicasino12.com
+50 0 obj
 500lira.com
 500play.com
 500vulkanvegas.com
@@ -595,6 +609,7 @@
 507836
 507vulkanvegas.com
 52 0 obj
+53 0 obj
 53jokerua.top
 551119
 55id.site
@@ -615,6 +630,7 @@
 61[8m
 62slottica.com
 630db58a22710.site123.me
+638567
 63slottica.com
 64slottica.com
 65slottica.com
@@ -741,14 +757,19 @@
 9nolimitway.com
 9slottica.com
 ;
+<*
 <<
 ==
 >
 >>
+>pj
+?
 @
 [*
+[3t
 \
 \v
+]
 ^v
 _
 `
@@ -1465,6 +1486,7 @@ azino-777.me
 aznbet.com
 azov-france.fr
 azovone.com
+b
 b-bets.com
 b-p.com.ua
 b-twinner.com
@@ -2391,6 +2413,7 @@ cbilling.in
 cbilling.live
 cbilling.pw
 cbillingtv.net
+cc
 cc-receipt.me
 ccs1.site
 cdn.adpool.bet
@@ -2725,7 +2748,9 @@ cygarky.kyiv.ua
 cypruscasinos.com
 cyshippingstrategy.com
 d
+d0
 d-hydra.com
+d.
 d.kinogo-filmov.net
 d.nd-kinogo.co
 d0mpay2centr.shop
@@ -3253,6 +3278,7 @@ dutyshop.pro
 dydenko.fun
 dzakupivli1.com.ua
 dzhankoy.rk.gov.ru
+ej
 e'
 e-dopomoga.club
 e-dopomoga.com.ua
@@ -4324,6 +4350,7 @@ gwqz00x.top
 gxmble.com
 gymlabs.org
 gzt.ru
+hu
 h0mepay0ne.shop
 h0mepaycentr.shop
 h0mepayclub.shop
@@ -4516,6 +4543,7 @@ i-look.tv
 i-mult.tlum.ru
 i.kinogo-filmov.net
 i.nd-kinogo.co
+i]
 ib-pay.me
 icamp.lviv.ua
 ice24.top
@@ -5604,6 +5632,7 @@ lvov.strana.news
 lvov.strana.one
 lvov.strana.today
 lwr.com.ua
+lz
 m
 m-dopomoga.info
 m-edopomoga.online
@@ -6986,6 +7015,7 @@ nvk9.ks.ua
 nx-dispay.me
 nyko.com.ua
 o
+o$
 o-dopomoga.com
 o-dopomoga.net
 o-dopomoga.xyz
@@ -7012,6 +7042,7 @@ ocx-ukrain.xyz
 ocxa-ua.top
 ocxa-ua.xyz
 ocxi-ukraine.xyz
+od
 oddr.info
 oddspedia.com
 odessa.strana.best
@@ -7063,6 +7094,7 @@ okpaytop.beauty
 okpaytop.pics
 okpayweek.shop
 oktagonbet.com
+oku
 olcanoperish.club
 oldhavanacasino.eu
 oldtimes.online
@@ -10349,6 +10381,7 @@ v-dopomoga.info
 v-dopomoga.net
 v-dopomoga.org
 v-vegas.fun
+v1
 v1pcas1no-volatility.top
 v2.strana.news
 v2.strana.today
@@ -11524,7 +11557,11 @@ ximko.vip
 xml.yandex.ru
 xml.yandex.ua
 xmrfqvoi.tvclub.xyz
+xn---nib
 xn---k1b
+xn--nv-n4d
+xn---gwd
+xn--*-pb7b
 xn----7sbahmg5af5dr7b.com.ua
 xn----7sbaibsrbdgjg2ajh3avggdk9e.xn--p1ai
 xn----7sbb4avoiu9b.in.ua
@@ -11548,12 +11585,14 @@ xn--80afo0afedo.com
 xn--80ahqgjaddr.xn--p1ai
 xn--80ankicu1fva.xn--p1ai
 xn--90adzbis.xn--c1avg
+xn--;)-228k
 xn--;?2-i2b
 xn--<nl-g7b
 xn--b1aasebc0aargg1d.xn--p1ai
 xn--b1aea3ais.xn--p1acf
 xn--b1aew.xn--l1ahm
 xn--b1akbpgy3fwa.xn--p1acf
+xn--bk-i5c
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1abj0abs9d.in.ua
 xn--d1ahahm1eza.com
@@ -11562,8 +11601,10 @@ xn--d1ahbgm1e2e.net
 xn--d1ahnhhx.su
 xn--gda
 xn--h1aheeehel.xn--p1acf
+xn--i-e0b
 xn--i6-d7d
 xn--ina
+xn--jna
 xn--kgxrv-kph
 xn--kinogo--4jga.online
 xn--kinogohd-xn3d.one
@@ -11844,6 +11885,7 @@ z~nb
 |
 |<
 |i
+}
 ~
 ~e
 
