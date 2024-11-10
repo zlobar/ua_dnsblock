@@ -4474,6 +4474,7 @@ zone "img.strana.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "img.strana.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "img.strana.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "imgreza.ddns.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "imho.press"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "immerion.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "imperbud.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "impresionesmega.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
