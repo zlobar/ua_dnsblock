@@ -1938,6 +1938,7 @@ zone "boomparirb.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "boomparixua.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bootle.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bopeconuc.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "border-lawyer.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "borengo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bosstabaco.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bosstabaco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -2897,6 +2898,7 @@ zone "dopomoga24-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "dopomoga24world.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogaa.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogadiia2023.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dopomogagranica.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogainukraine.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogaothelp.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomogaua.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -10831,6 +10833,7 @@ zone "vsetut.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "vsetut.od.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vsetut.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vteme.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vuezd-zakordon.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vuk777betting.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vul777million.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vul777online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
