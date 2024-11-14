@@ -5057,6 +5057,7 @@ kinogo.co
 kinogo.cx
 kinogo.day
 kinogo.dirp.me
+kinogo.ec
 kinogo.eu
 kinogo.film
 kinogo.fm
@@ -5093,12 +5094,14 @@ kinogohd.online
 kinogoo.zone
 kinokong.pro
 kinokrad-tv.club
+kinokrad.ac
 kinokrad.cc
 kinokrad.co
 kinokrad.cx
 kinokrad.day
 kinokrad.fan
 kinokrad.film
+kinokrad.fm
 kinokrad.icu
 kinokrad.live
 kinokrad.one

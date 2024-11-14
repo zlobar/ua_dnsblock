@@ -5057,6 +5057,7 @@ zone "kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "kinogo.cx"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo.day"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo.dirp.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinogo.ec"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo.film"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinogo.fm"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5093,12 +5094,14 @@ zone "kinogohd.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "kinogoo.zone"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokong.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad-tv.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinokrad.ac"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.cx"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.day"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.fan"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.film"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kinokrad.fm"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kinokrad.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
