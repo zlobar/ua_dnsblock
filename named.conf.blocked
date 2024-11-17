@@ -2742,6 +2742,7 @@ zone "dh420.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dhs.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "di-fdopomoga.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "diablo.city"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dialogtut.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "diamond-club.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "diamond7casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "digitalrussia.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9332,6 +9333,7 @@ zone "sprav.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "sprav.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spree.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sputniknews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spzh.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
