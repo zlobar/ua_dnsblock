@@ -3161,6 +3161,7 @@ zone "e-news.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "e-privat24.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e.kinogo2019.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ea-receipt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "eadaily.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ealthydough.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "earthrepaircharter.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "easypay.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4928,6 +4929,7 @@ zone "jxvq1y2cmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "k8.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ka-28022.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kabinetonline.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kachorovska.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kadrovik1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kagroup.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kahuna777.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5532,6 +5534,7 @@ zone "mail.wmid.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "mail.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mailer-vip.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mailru.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "maisonscn.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "maizuko.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "makaobet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "makeyevka.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9301,6 +9304,7 @@ zone "spirtukrprom.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "spirtukrprom.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtzakaz.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirtzakaz.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "splata.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sport-nutrition.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sport.netbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sport.poker-bet.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
