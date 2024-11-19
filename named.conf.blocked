@@ -11256,12 +11256,15 @@ zone "www.eg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "www.elitopt.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.eurobus-tour.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.euslot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.facct.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.fastpay-casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.fon.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.galacticwins.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.geopolitika.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.good-drink.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.grandx.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.group-ib.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.group-ib.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.gtrklnr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.htmlacademy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ilucki.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
