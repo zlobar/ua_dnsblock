@@ -3489,6 +3489,7 @@ zone "f7x45nmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "fa-sultangames-6523.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fa79ombx.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fabrikant.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "facct.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fafa191kh.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fairplay.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "familybets.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -4196,6 +4197,7 @@ zone "grompoker33.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "grompokerua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "grompokerua2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "grompokerua3.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "group-ib.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "group-ib.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gryphoninvest.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gsdsd-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
