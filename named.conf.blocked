@@ -1352,6 +1352,7 @@ zone "avtomaty.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "avtopribor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awardmegood.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awayborder.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "awaylborder.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awaylborder.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awdzhpmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "axwin.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5167,6 +5168,7 @@ zone "konyak.world"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "kookubet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "koportas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "korchmar.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kordon-urist-help.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "korruption.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kosmo-lot.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kosmo-lots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -6962,6 +6964,7 @@ zone "olcanoperish.club"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "oldhavanacasino.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oldtimes.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ole7.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "oleksey-kordon-ua.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "olimp.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "olimp.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "olx-online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
