@@ -501,7 +501,6 @@ zone "427vulkanvegas733.com"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "437game.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "4395.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "44jokerland.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "45.84.204.32"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "452vulkanvegas748.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "456win.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "458money.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -522,7 +521,6 @@ zone "4s4i6epnwkfq6yf.paygo.today"	{ type master; file "/usr/local/etc/namedb/pr
 zone "4starsgames.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "4vulkanvegas21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5-tv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "5.181.161.58"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5.argocasino50.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "5.ivicasino12.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "500lira.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
