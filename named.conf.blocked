@@ -9801,6 +9801,7 @@ zone "timepaynow.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "timepayplus.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "timepaytop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "timetodrink.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "timeze2019.blogspot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "timixan.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "titanpoker.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "titorevid.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
