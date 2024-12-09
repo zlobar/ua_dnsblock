@@ -5209,6 +5209,7 @@ komok-market.store
 kompromat.name
 kompromat100.info
 komtv.org
+konjak.net.ua
 konradfun.com
 kontrabas.com.ua
 kontrabas.net
@@ -5221,6 +5222,7 @@ kookubet.com
 koportas.ru
 korchmar.com.ua
 kordon-urist-help.online
+korobka-psheno.net.ua
 korruption.com.ua
 kosmo-lot.info
 kosmo-lots.com
@@ -9363,6 +9365,7 @@ spirt-torg.com.ua
 spirt-torg.net
 spirt-torgua.com
 spirt.luxe
+spirt.store
 spirt.vip
 spirt24.com
 spirt24.store

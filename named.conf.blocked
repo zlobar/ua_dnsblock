@@ -5209,6 +5209,7 @@ zone "komok-market.store"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "kompromat.name"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kompromat100.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "komtv.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "konjak.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "konradfun.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kontrabas.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kontrabas.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5221,6 +5222,7 @@ zone "kookubet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "koportas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "korchmar.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kordon-urist-help.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "korobka-psheno.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "korruption.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kosmo-lot.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kosmo-lots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9363,6 +9365,7 @@ zone "spirt-torg.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "spirt-torg.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt-torgua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt.luxe"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spirt.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spirt24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
