@@ -4442,7 +4442,6 @@ zone "hqdeals.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "hr-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hschool.medsprava1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "htmlacademy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "https:"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hueforall.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hugewin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hujepay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9126,6 +9125,7 @@ zone "slava-club.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "slavasev.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "slavlnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "slavvesti.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "slivhub.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "slm.games"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "slon24.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "slootz.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
