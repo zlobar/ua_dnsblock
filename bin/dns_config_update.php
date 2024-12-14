@@ -7,6 +7,7 @@ foreach ($files as $fname) {
 	unset($file);
 	$file=file($fname);
 	foreach ($file as $line) {
+		$line=trim($line);
 		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
 			$line=$matches[1];
 		}
