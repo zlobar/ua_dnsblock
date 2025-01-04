@@ -1031,6 +1031,7 @@ zone "alcotrafic.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "alcotrust.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcoua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcozym.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "aleksey-kordons-ua.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alexanderplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alfa-paywell.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alfa24.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5368,6 +5369,7 @@ zone "leapsport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "leberiovasd.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leetbit.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legal-casino.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "legal-kordon.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legal-position24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legalbet.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legalizer.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -7901,6 +7903,7 @@ zone "pelancarhaid.beauty"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "pelicancasino.games"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "peppermillcasino.be"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "peptid-power.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "perehodkirillcordon1.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "perekaz-online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "perekazy-24pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "perekazy24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
