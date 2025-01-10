@@ -9969,6 +9969,7 @@ zone "sprav.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "sprav.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spree.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sputniknews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spzh.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spzh.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
