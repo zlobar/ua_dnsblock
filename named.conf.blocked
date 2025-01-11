@@ -1159,6 +1159,7 @@ zone "alkotorg.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "alkotrend.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alkoua-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alktime.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "all-news.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "allat-ra.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "allatra-book.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "allatra-radio.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9010,6 +9011,7 @@ zone "robet247.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "robotlegzo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rocketprint.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rocknrollacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "rodina.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rolempay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rollbit.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rollblock.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
