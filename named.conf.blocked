@@ -1054,6 +1054,7 @@ zone "alcotrafic.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "alcotrust.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcoua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcozym.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "aleksey-kordon-2025.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aleksey-kordons-ua.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alexanderplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alfa-paywell.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -5162,6 +5163,7 @@ zone "ju.mp"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "juegaenlinea.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "juristu-pomoch-online.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jus321.host"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justice-league.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justiceforalldinner.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
