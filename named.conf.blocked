@@ -6464,6 +6464,7 @@ zone "mintrud.gov-dpr.ru"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "mintrud.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintrudlnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "minuet.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minzdrav.govdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minzdrav.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -8931,7 +8932,9 @@ zone "rekassavip.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "rekocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rel-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rel.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "relaxik.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "relaxik.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "relaxkiev.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "relaxkiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ren.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "renalcellcancerpedia.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -9483,6 +9486,7 @@ zone "sexbloggersmeeting.com"	{ type master; file "/usr/local/etc/namedb/primary
 zone "sexkiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sexkieva.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkompas.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexzakaz.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sf.education"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
