@@ -5478,6 +5478,7 @@ zone "ktcr.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "ktcr.lprreg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ku-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kuaizoukai.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kuna.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kundun.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kupit-spirt.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kvitum.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
