@@ -3287,6 +3287,7 @@ zone "e-dopomoga.group"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "e-dopomoga.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e-dopomoga.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e-dopomoga.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "e-news.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e-news.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e-privat24.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "e.kinogo2019.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
