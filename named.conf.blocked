@@ -10934,6 +10934,7 @@ zone "ukraine-inc.info"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "ukraine-tour.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukraine-viplota.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukraine-war.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukraine.news-pravda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukraine.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukrainely.help"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukraines-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
