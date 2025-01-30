@@ -4567,6 +4567,7 @@ hdrezka.rest
 hdrezka.run
 hdrezka.sh
 hdrezka.solutions
+hdrezka.su
 hdrezka.tips
 hdrezka.today
 hdrezka.tv

@@ -4567,6 +4567,7 @@ zone "hdrezka.rest"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "hdrezka.run"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.sh"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.solutions"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "hdrezka.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.tips"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hdrezka.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
