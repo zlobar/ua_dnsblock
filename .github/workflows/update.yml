@@ -26,6 +26,7 @@ jobs:
         with:
           file-path: |
             domains.txt
+            ips.txt
             named.conf.blocked
             unbound.conf.blocked
           commit-msg: Autoupdate
