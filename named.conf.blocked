@@ -6405,7 +6405,6 @@ zone "micropaytop.beauty"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "micropaytop.uno"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "microprices.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mid-dnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "mihazank.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mikepeirce.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mil-lnr.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "militaryarms.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
