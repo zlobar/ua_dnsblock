@@ -34030,6 +34030,7 @@ zone "comysui7.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "connaced.host"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "consultations-urist-ukraine.cloud"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "consultations-uristu-uk.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "consultkiril.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "contactpay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "controllingbet.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "controllingbet.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36794,8 +36795,10 @@ zone "juegaenlinea.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "junker.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "jurist-online-ukr24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jurist-onlineukr24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "juristu-pomoch-online.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "juristu-pomoch24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jus321.host"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justice-league.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justiceforalldinner.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39384,6 +39387,7 @@ zone "orbet.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "orca88.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "orca8826.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "orca8830.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ord-ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "order-com.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "order-privat24.tk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "orderpay.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
