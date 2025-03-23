@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/zlobar/ua_dnsblock/main/domains.txt
 2) включити його в конфіг unbound.conf **include-toplevel: "/etc/unbound/unbound.conf.d/*"** (або інший шлях де він буде)
 
 
-_Оновлено станом на 16.03.2025_
+_Оновлено станом на 23.03.2025_
 
 ![Alt](https://repobeats.axiom.co/api/embed/40d42a3345bcb93e15df7a0432dc82c381f9e5f3.svg "Repobeats analytics image")
