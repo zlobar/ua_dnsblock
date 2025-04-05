@@ -44752,6 +44752,7 @@ zone "www.knu.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "www.knu.edu.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.knushevchenko.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.konungcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.ks-israel.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.kyivmnu.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.lebenshaus-alb.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.lentata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
