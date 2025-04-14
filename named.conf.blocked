@@ -33372,6 +33372,7 @@ zone "bookmate.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "booksto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boombangcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "boompari.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boompari.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boompari1.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boompari5.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -35112,6 +35113,7 @@ zone "ezcash43.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "ezcash44.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ezcash45.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ezcash47.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ezcash51.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ezcsolutions.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "f-dopomoga.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "f-dopomoga.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39826,6 +39828,7 @@ zone "parik24.co.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "parik24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "parik24.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "parik24.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "parik24.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "parik24.kyiv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "parik24.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "parik24.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
