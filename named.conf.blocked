@@ -40202,6 +40202,7 @@ zone "pcs-order.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "pdd.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pdlkjg.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pe-24513.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pe-spheron.cfd"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "peace-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pec6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pecefei3.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
