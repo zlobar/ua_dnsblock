@@ -41510,6 +41510,7 @@ zone "russian-center.ru"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "russian-insider.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "russian.oplot.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "russian.rt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "russiepolitics.blogspot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rusvesna.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rutube.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ruxpert.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44813,6 +44814,7 @@ zone "www.pl.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "www.politnavigator.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ponomaryov.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.pravda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.pravyprostor.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.probki.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.qiwi.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
