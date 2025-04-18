@@ -39014,7 +39014,7 @@ zone "narazliv.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "narazliv24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narcos24.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narodnoeopolchenie.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "nasepravda.cz,"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "nasepravda.cz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nashagazeta.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nashaplitka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nashe.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
