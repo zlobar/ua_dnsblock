@@ -36526,6 +36526,7 @@ zone "infopayvip.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "inforeactor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "informiran.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inforos.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "infosperber.ch"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "infovestnik.blogspot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inkasacentr.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inkasaclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44571,6 +44572,7 @@ zone "wek.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "welle.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "welle1.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wellsfargo-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "weltwoche.ch"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "werlay-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "westcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wgggnvoiarww.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
