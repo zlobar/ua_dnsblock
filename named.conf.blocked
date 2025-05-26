@@ -36917,6 +36917,7 @@ zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "junker.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jurist-consultant-online24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "jurist-consultant24.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jurist-online-ukr24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jurist-onlineukr24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "juristu-pomoch-online.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
