@@ -32545,6 +32545,8 @@ zone "anonymbet.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "antifashist.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antifriz.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antifriziptv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "antikor.com.xn--ua, - 185-4yha1cn4mdr46a.203.72.11"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "antikor.xn--info, - 195-4ija9cp6odt60b.144.0.3"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antimafia.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antimafia.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antimafia.se"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44577,6 +44579,7 @@ zone "wek.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "welle.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "welle1.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wellsfargo-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "weltnetz.xn--tv, - 92-56ga7bm3ldq34a.205.50.80"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "weltwoche.ch"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "werlay-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "westcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45309,6 +45312,7 @@ zone "ze.baskino-space.fun"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "ze6yc4q.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zedom.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zedopomogaua.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "zeitpunkt.xn--ch, - 172-4yha1cn4mdr46a.67.159.211"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zelenemisto.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zelenka.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zemya.bg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
