@@ -34491,6 +34491,7 @@ zone "dopomoga-ukraine.net"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "dopomoga-ukraine.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-ukraine.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-uristaonline24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dopomoga-uristov-online.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga.in"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga2023.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36942,6 +36943,7 @@ zone "justpayplus.beauty"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "justpaysite.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpaytop.beauty"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "justpayweek.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "juveri-online24-help.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jvspin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jvspin.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jvspin189118.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44788,6 +44790,7 @@ zone "www.1237bets10.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "www.1238bets10.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.21casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.24kcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.advokatperesolyak.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.agoravox.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.alca-mag.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.alco-duty-free.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
