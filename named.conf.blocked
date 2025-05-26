@@ -32616,6 +32616,7 @@ zone "apollon.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "apolomultispecialist.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "apolon.in"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "apolon.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "apolut.xn--net, - 212-4qia5co5nds58a.117.184.180"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aposta365.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aposta365.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "apotheke.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -37650,6 +37651,7 @@ zone "los-gos.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "los-tabacco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "losb-pays.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lostarmour.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lostineu.xn--eu, - 92-56ga7bm3ldq34a.205.215.124;"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lostsmoke.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lostsmoke.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "loto-zoloto.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
