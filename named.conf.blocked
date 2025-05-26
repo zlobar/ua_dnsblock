@@ -36215,6 +36215,7 @@ zone "helps-urista24.online"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "helps-urists-compan.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "helps-urists-compann24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "helpspay-24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "henichesk.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "herake.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hersonka.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hersopa.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -41806,6 +41807,7 @@ zone "sexkieva.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "sexkompas.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexzakaz.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sf.education"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sfr.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "shahtersk.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "shakhtar-plaza.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "shara-tv.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
