@@ -34452,6 +34452,7 @@ zone "donbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "doncsm.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "doneast.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donera.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "donetsk-dr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk-france.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk-news.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk.kp.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -37764,6 +37765,7 @@ zone "m.mhs2d0s.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "m.novosti.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "m.opnddma.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "m.retivabet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "m.ura.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "m.vbet20.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "m.vbetua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "m.vbetua1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
