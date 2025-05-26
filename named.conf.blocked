@@ -34456,6 +34456,7 @@ zone "donera.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "donetsk-dr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk-france.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk-news.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "donetsk.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetsk.kp.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donetskmedia.xn--ru, -  185-3qia5co5nds58a.71.67.179"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "donmarger.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
