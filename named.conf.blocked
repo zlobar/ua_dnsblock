@@ -40521,6 +40521,7 @@ zone "pobeda.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "pobeda.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pobeda2020.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pobeda39.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pobedarf.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "poc0kie.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "podgradusom.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "podgradusom.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
