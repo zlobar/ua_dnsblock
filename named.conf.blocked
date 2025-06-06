@@ -41147,6 +41147,7 @@ zone "rapira.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "rapsinews.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rare.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rarebet.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "raskolam-net.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "raskolam.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rasp.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rasp.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
