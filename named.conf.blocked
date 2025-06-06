@@ -34292,6 +34292,7 @@ zone "ddoppomoga.store"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "dduvs.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "de-dispays.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "de-nieuwe-media.nl"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "de.sott.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "debalcevo-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "debt.wmtransfer.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dec0.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -41071,6 +41072,7 @@ zone "qk4bkmj.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "qnext24.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qoqaz.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qp-info.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "qpress.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qpygio5.run"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qq.hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "qq.kinokradx.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
