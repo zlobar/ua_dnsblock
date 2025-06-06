@@ -36250,6 +36250,7 @@ zone "helps-urists-compann24.site"	{ type master; file "/usr/local/etc/namedb/pr
 zone "helpspay-24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "henichesk.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "herake.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "herson.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hersonka.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hersopa.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hexlet.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
