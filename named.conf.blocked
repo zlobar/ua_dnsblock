@@ -34389,6 +34389,7 @@ zone "dnr-live.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "dnr-news.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dnr-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dnr-pravda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dnr.sckk.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dnr24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dnr24.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dnrailway.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
