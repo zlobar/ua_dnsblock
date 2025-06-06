@@ -41930,6 +41930,7 @@ zone "sigiopts.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "sigmir.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "silverplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "simadm.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "simferopol.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "simpa-casino4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "simpa-casino5.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "simpa-casinos.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
