@@ -38292,6 +38292,7 @@ zone "melbetorvsyls.top"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "melbetug.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "melbetuganda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "melbetzambia.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "melitopol.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mellbet-003339.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "melord.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "melredbpswy.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
