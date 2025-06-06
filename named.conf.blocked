@@ -33527,6 +33527,7 @@ zone "c-pravda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "c.hd-baskino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "c.hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "c.kinogo-filmov.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "c1k.world"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "c1x-bet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "c3gwsgl.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "c3uh6ee.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
