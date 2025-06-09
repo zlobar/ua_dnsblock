@@ -33,10 +33,12 @@ foreach ($files as $fname) {
 		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
 			$line=$matches[1];
 		}
-		if (preg_match("/^([^,;\/]*)\//",$line,$matches)) {
+		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
 			$line=$matches[1];
 		}
 		list($l,)=explode("#",trim($line),2);
+		list($l,)=explode(",",trim($l),2);
+		list($l,)=explode(";",trim($l),2);
 		$l=strtolower($l);
 		$l=idn_to_ascii($l);
 		if (preg_match("/^(2([0-4][0-9]|5[0-5])|1[0-9][0-9]|[1-9][0-9]|[0-9])\.(2([0-4][0-9]|5[0-5])|1[0-9][0-9]|[1-9][0-9]|[0-9])\.(2([0-4][0-9]|5[0-5])|1[0-9][0-9]|[1-9][0-9]|[0-9])\.(2([0-4][0-9]|5[0-5])|1[0-9][0-9]|[1-9][0-9]|[0-9])$/",$l)) {
