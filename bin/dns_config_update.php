@@ -11,7 +11,7 @@ foreach ($files as $fname) {
 		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
 			$line=$matches[1];
 		}
-		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
+		if (preg_match("/^([^,;\/]*)\//",$line,$matches)) {
 			$line=$matches[1];
 		}
 		$l=strtolower(trim($line));
@@ -33,7 +33,7 @@ foreach ($files as $fname) {
 		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
 			$line=$matches[1];
 		}
-		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
+		if (preg_match("/^([^,;\/]*)\//",$line,$matches)) {
 			$line=$matches[1];
 		}
 		list($l,)=explode("#",trim($line),2);
