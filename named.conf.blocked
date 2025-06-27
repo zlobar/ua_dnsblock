@@ -45919,7 +45919,6 @@ zone "www.1238bets10.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "www.21casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.24kcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.888casino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "www.advokatperesolyak.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.agoravox.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.alca-mag.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.alco-duty-free.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
