@@ -42534,6 +42534,7 @@ zone "rst-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "rstat.rockmostbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rtr-planeta.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "rtvi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ru-kinogo.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ru-promo.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ru.888.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
