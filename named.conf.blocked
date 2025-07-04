@@ -44055,7 +44055,6 @@ zone "telepay.webmoney.ru"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "telepay.wmtransfer.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telephony.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telepolis.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "teleportal.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telesputnik.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "televizorus.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telmanovo-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

@@ -44055,7 +44055,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 telephony.yandex.ru
 telepolis.de
-teleportal.ua
 telesputnik.ru
 televizorus.com
 telmanovo-dnr.ru
