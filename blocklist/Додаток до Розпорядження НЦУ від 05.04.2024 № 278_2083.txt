@@ -118,7 +118,7 @@ kassa.yandex.ru
 metrika.yandex.ru
 n.maps.yandex.ru
 translate.yandex.ru
-travel/yandex.ru
+travel.yandex.ru
 rasp.yandex.ru
 stat.yandex.ru
 telephony.yandex.ru
