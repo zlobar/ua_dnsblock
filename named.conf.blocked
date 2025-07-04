@@ -36279,7 +36279,6 @@ zone "ggbets.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "ggbetuapromo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ggbetuardct.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ggonline.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "ggpoker.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ggpokers.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "giapkdnr.msdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gid-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
