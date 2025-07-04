@@ -38670,6 +38670,7 @@ zone "magicwin1.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "magicwin2.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magicwin3.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magnet21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "magyarjelen.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.wmid.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
