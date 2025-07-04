@@ -44275,7 +44275,6 @@ zone "transition-news.org"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "translate.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "translate.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "translog.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "travel"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "travel.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "travel.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "traveline.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
