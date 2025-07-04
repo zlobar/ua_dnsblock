@@ -37324,7 +37324,6 @@ zone "interra.bz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "intertops.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "intrud.rk.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ints.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "ints.net."	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inv-gos.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "investor.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "io.gidonline.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40341,7 +40340,7 @@ zone "nuevarevolucion.es"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "nul5.kinokrad7.cam"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "numberone.te.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nv-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "nv.casino."	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "nv.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nvk9.ks.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nx-dispay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nyko.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
