@@ -37013,8 +37013,6 @@ zone "hqkino.kinogo-new.com"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "hr-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hschool.medsprava1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "htmlacademy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "http:jetb-media2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "http:lckco.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hueforall.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hugewin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hujepay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -37574,6 +37572,7 @@ zone "jet29.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "jet41.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jet99.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jet999.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "jetb-media2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jetcasino.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jetcasino10004.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jetcasino10009.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38246,6 +38245,7 @@ zone "lb9785hh.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "lb9877av.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lb9996uy.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lbrspk0.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lckco.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lead-lnk.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leader-books.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leapsport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

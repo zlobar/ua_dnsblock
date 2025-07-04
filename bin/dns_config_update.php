@@ -30,7 +30,7 @@ foreach ($files as $fname) {
 	$file=file($fname);
 	foreach ($file as $line) {
 		$line=trim($line);
-		if (preg_match("/^https?:\/\/(.*)/i",$line,$matches)) {
+		if (preg_match("/^https?:\/?\/?(.*)/i",$line,$matches)) {
 			$line=$matches[1];
 		}
 		if (preg_match("/^([^\/]*)\//",$line,$matches)) {
