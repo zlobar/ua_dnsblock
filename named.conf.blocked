@@ -34844,6 +34844,7 @@ zone "doy6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "dozvil.kr.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dp.uz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dpa2016.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dpr.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dqiri3fcgkns.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dr-spin.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dr5.to"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36504,6 +36505,7 @@ zone "gorlovka-news.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "gorlovka-news.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gorlovka-pravda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gorlovka-tv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "gorlovka.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gorlovka.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gormonrosta.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gormons.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38535,6 +38537,7 @@ zone "lovbet.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "lovecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lovecasino1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lovecasino2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lpr.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ls-ftend-pp.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ls-ftend.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lsbet1633.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40276,6 +40279,7 @@ zone "notiziegeopolitiche.net"	{ type master; file "/usr/local/etc/namedb/primar
 zone "novicentar.rs"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "novkahovka.khogov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "novoaz-adm.3dn.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "novoe.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "novoizdanie.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "novopressa.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "novorosinform.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
