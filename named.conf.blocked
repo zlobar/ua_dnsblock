@@ -33713,6 +33713,7 @@ zone "britainbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "britannia-kaliningrad.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "britanskiy.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "britishmorris.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "brodbg.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brotv.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brotv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "browser.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38107,6 +38108,7 @@ zone "klon.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "klungtrick.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kmkgtrp.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kmplus.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "knigograd.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knu.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knu.edu.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knushevchenko.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
