@@ -38304,6 +38304,7 @@ zone "lasvegascasino.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "lasvegasusa.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lataamo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lavinamy.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lavkabooks.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lavocedellevoci.it"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lawyer-border.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lawyer-consul.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45734,6 +45735,7 @@ zone "vodkam.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "vodkam.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodkam.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vodkaprime.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "voenka.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voff.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voiceofeurope.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voicesevas.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
