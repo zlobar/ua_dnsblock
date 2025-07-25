@@ -37076,6 +37076,7 @@ zone "hunnyplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "hunnyplay.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "huskaro.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "huwsnbd.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "hvim.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hvoiwew5.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hw-dispath.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hwgr.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
