@@ -32909,6 +32909,7 @@ zone "bahisbeta517.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "bahislion538.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bakilux.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "balalla.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "balashov.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "balkanfarm.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "balkanpharmukraine.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "balkanshop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38749,6 +38750,7 @@ zone "magicwin2.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "magicwin3.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magnet21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarjelen.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mahorka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.wmid.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43150,6 +43152,7 @@ zone "sigaretki.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "sigarety-optom.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sigarety.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sigarety.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sigaropt.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sigarvukr.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sigaua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sigaua.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43704,6 +43707,7 @@ zone "ss.hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "ss.kinogo-filmov.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ss.kinogo-new.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ssbg59y.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ssigiopts.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ssl-pay.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ssl-pays.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "st888-12576.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44126,11 +44130,13 @@ zone "tabacos.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "tabacos.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabacoua.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak-gilza.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tabak-ua.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak.biz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak.in.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak.od.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabak.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabake.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tabaker.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakerka.cx.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakerka.pp.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabaki.co.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44143,6 +44149,7 @@ zone "tabakpro.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "tabakpro.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakshop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabakua.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tabba.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabe.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabe.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tabeker.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44308,6 +44315,7 @@ zone "tlintegration-eu.com"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "tnd898g.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tnt-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "to-receipt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tobac.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacco-market.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacco-shop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacco-shop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44319,6 +44327,7 @@ zone "tobaccos.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "tobaccos.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobaccos.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobaccoshop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tobaco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tobacos.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44427,6 +44436,7 @@ zone "trkmillet.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "trollik.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "troubadur.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trubki.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "trubochki.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trud.bg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trudgor.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trudslava.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
