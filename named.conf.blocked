@@ -46250,6 +46250,7 @@ zone "wmzjzrg.cn"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "wo-69f7.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "woka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolf.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "wolfgangstreeck.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolfycasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolnemedia.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "womoxae6.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
