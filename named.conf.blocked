@@ -32271,6 +32271,7 @@ zone "alco-grands.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "alco-grands.xn--om-nmc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-hop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-hop.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-house.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-hub.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-karobbka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-korobbka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -32310,6 +32311,7 @@ zone "alco-shop.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "alco-shopnet.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shopnet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shoppingtop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-shoppingua.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shoppingukr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-shopua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-sklad.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -32358,6 +32360,7 @@ zone "alcoduti.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "alcoduty-club.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcoduty-free.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcoduty-free.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcoduty.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcodutybar.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcodutyfree.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcodutyfree.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -32422,6 +32425,7 @@ zone "alcoshoping.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "alcoshopstore.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcosklad.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcosklad.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcosow.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcostars.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcostars.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcostars.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -32429,6 +32433,7 @@ zone "alcostars.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "alcostars.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcostars.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcostock.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcostore.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcot0p.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotorg.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotraffic.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
