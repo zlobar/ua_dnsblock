@@ -37491,6 +37491,7 @@ zone "irwinwv2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "iseetv.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "isg-tech.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "iskra-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "iskra.gr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "iskradnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "islot.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "istroy.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40986,6 +40987,7 @@ zone "paidtime.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "paidwin.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "paiojs.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pakalko.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pakief.gr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pako.myftp.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "palladium.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "palmsbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
