@@ -38428,6 +38428,7 @@ zone "lead.gtrklnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "leader-books.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leapsport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leberiovasd.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lecourrierdesstrateges.fr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leetbit.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legal-casino.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "legal-kordon.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -42567,6 +42568,7 @@ zone "reserveplusmodgovua.org"	{ type master; file "/usr/local/etc/namedb/primar
 zone "reserveplusmodgovua.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "reserveplusmodgovua.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "reservesell.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "resistancerepublicaine.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "respin.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "restmap.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "retarus.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
