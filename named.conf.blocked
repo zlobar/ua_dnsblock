@@ -33828,6 +33828,7 @@ zone "bus-donetsk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "bus-lugansk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bus.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "busfor-ua.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "busification.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "business-news.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "businesswithpurposepodcast.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "businesswomen.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -35442,6 +35443,7 @@ zone "enc.od.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "enebet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "energycasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "energywin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "enewsmd.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "engine.xbet.ag"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "enic-kazakhstan.kz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "enigmacarsusa.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36597,6 +36599,7 @@ zone "gonzo-casino5.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "gonzo-casino6.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gonzo-casino7.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gonzo-partners.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "good-book.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "good-opros.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "good.tartugi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "good.tartugi.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38863,6 +38866,7 @@ zone "magicwin3.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "magnet21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarhirlap.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarjelen.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "magyarnemzet.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mahorka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mail.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43542,6 +43546,7 @@ zone "social-dopomoga.foundation"	{ type master; file "/usr/local/etc/namedb/pri
 zone "social-hub.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "social.clothing"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "socialhub1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "socialistii.md"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sodopomoga.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "soft-market.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "softoboz.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
