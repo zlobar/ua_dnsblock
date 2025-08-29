@@ -32825,6 +32825,7 @@ zone "ard.km.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "argest.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "argocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "argumenti.kg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "armenianreport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "armgov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "armster.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "armystandard.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40086,6 +40087,7 @@ zone "multistream.space"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "multvkino.tlum.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mummysgold.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mundm.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "munkaspart.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "museum.odessa.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "music.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "must.rk.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40559,6 +40561,7 @@ zone "nobonuscasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "nocor.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nofile.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nohopes.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "noi.md"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nokehou6.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nolimitcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nolimitsway.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
