@@ -38087,6 +38087,7 @@ zone "kazinosvip.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "kazinovip.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kazinovip.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kazinovip.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kazkovo-book.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kaznalnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kcpn.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kdgxhn1t5zyd.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
