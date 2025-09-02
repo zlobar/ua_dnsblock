@@ -42140,6 +42140,7 @@ zone "primaplay.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "primedice.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "primeelslots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "primeelslotss.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "primul.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "privaf24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "privat-24-next.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "privat-24.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
