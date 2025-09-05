@@ -33098,6 +33098,7 @@ zone "begemot.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "beirut-hall.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bejoy.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bekekor.wordpress.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bekezdesek.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bel-oprosov.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "belbet.by"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bell-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36789,6 +36790,7 @@ zone "goxbetland.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "goxfamily.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gpdnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gplnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "gpress.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gqgckybqd7mb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gqpnjby.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gr-dispays.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45251,6 +45253,7 @@ zone "unlimcasino7.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "unlimcasino8.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unlimcasino9.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unlimitcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "unsere-zeit.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unversalbank.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uo-dispath.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uo-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
