@@ -44917,6 +44917,7 @@ zone "tvkultura.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "tvlider.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvoetv.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvoj.kharkov.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tvopen.gr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvotv.sk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvzvezda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tw-dispay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
