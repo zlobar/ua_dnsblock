@@ -44837,6 +44837,7 @@ zone "tr.melbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "track.abdsp.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trackaff.win"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tradacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "traditia.md"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tranceservice.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trans-privat24.ga"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "trans-privat24.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
