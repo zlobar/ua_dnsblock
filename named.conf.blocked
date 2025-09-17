@@ -43954,6 +43954,7 @@ zone "spacecasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "spacelilly.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spacewincasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spahn-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "spanish.news-pravda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sparks-store.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spartak.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spassino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -46804,7 +46805,6 @@ zone "wumag.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "wumoxmc.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wutks9h.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wv67tw07ohbv.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "wvvw.spanish.news-pravda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ww1.dragon888gold.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ww2.hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ww25.pokizino.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
