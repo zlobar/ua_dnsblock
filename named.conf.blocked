@@ -36453,6 +36453,7 @@ zone "gaminator.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "gamingcity.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gamingclub.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "garant.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "garantparty.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gasoft-ltd.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gate.dropayment.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gate777.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
