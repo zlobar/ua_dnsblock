@@ -45063,6 +45063,7 @@ zone "tv.rbc.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "tv.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tv.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tv2bb3v.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "tv6.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvc.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvigle.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tvkultura.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
