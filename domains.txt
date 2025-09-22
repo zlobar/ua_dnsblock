@@ -35439,6 +35439,7 @@ ekassa-24.shop
 ekklisya.com
 ekotoys.com.ua
 eksumid.com.ua
+el.gr
 eldorado-casino.in.ua
 eldoradocasino.online
 elfbar.com.ua
@@ -36803,6 +36804,7 @@ gorlovka-tv.ru
 gorlovka.bezformata.com
 gorlovka.su
 gorlovka.today
+gorlovkanews.ru
 gormonrosta.com.ua
 gormons.com
 gorod-donetsk.com
@@ -38254,6 +38256,7 @@ kiat.org.ua
 kibrs6z3.tvclub.xyz
 kiev-donetsk-kiev.tilda.ws
 kiev-girls.com
+kiev-news.ru
 kiev.coddyschool.com
 kiev.foundation
 kiev.strana.best
@@ -38553,6 +38556,7 @@ kri.com.ua
 kripty.com
 kritichno.bg
 krivoy-rog-news.ru
+krivoyrognews.ru
 krtech.ru
 krvesna.rk.gov.ru
 krym.fas.gov.ru
@@ -39039,10 +39043,12 @@ lvbet.com
 lvbet.lv
 lvbet12.com
 lvihotra.ru
+lvov-news.ru
 lvov.strana.best
 lvov.strana.news
 lvov.strana.one
 lvov.strana.today
+lvovnews.ru
 lvwzurxfflrd.pro
 lwr.com.ua
 lypypuu7.online
@@ -39872,6 +39878,7 @@ mok-pay.com
 mokespaghetti.tech
 moldcheap.space
 moldova-news.com
+moldova-today.com
 moldova.news-pravda.com
 molotap.ru
 mon-amur.com.ua
@@ -40529,11 +40536,17 @@ newptivat.site
 newretrocasinog17.com
 newretrocasinom19.com
 news-cherkassy.ru
+news-dnepr.ru
+news-donetsk.ru
 news-front.info
+news-gorlovka.ru
+news-kherson.ru
 news-kiev.ru
 news-lnr.ru
 news-lugansk.ru
 news-mariupol.ru
+news-poltava.ru
+news-sumy.ru
 news-zp.ru
 news.church.ua
 news.gtrklnr.ru
@@ -40541,9 +40554,12 @@ news.mail.ru
 news.rambler.ru
 news.yandex.ru
 news.yandex.ua
+newsdnepr.ru
 newsdnr.ru
 newsinfo.ru
 newskharkov.ru
+newskherson.ru
+newskiev.ru
 newskog.ru
 newsland.com
 newsmariupol.ru
@@ -40552,6 +40568,7 @@ newsone.ua
 newsoneua.tv
 newsplkompensation.top
 newsua.ru
+newsvin.ru
 newszp.ru
 newvulkanvegas.com
 next-blago.online
@@ -42198,6 +42215,7 @@ pollychenniie.store
 pollycnjieee.store
 polsk-pay.top
 poltava-news.ru
+poltavanews.ru
 polychaika.store
 polychenje.pw
 pomoch-uristov.site
@@ -42964,6 +42982,7 @@ roulette.com
 roulettedoc.com
 roundercasino.com
 rov-adm.su
+rovno-news.ru
 rox-casino.kiev.ua
 rox-nxoyfjmrn.com
 roxcasino.com
@@ -44510,6 +44529,7 @@ sucuritipay.online
 sultanbet49.com
 sultangames.com
 sumy-news.ru
+sumynews.ru
 sunmaker.de
 sunpalacecasino.eu
 sunpura.com
@@ -46120,6 +46140,7 @@ villento.com
 vin-gazeta.net
 vin-news.ru
 vini.net.ua
+vinnitsa-news.ru
 vinrajrada.org.ua
 vinted-onlinesme.com
 vinted-pays.me
@@ -47587,6 +47608,7 @@ zeebit.io
 zeitpunkt.ch
 zelenemisto.com.ua
 zelenka.top
+zemlug.ru
 zemya.bg
 zen.bet
 zenbetting.com
