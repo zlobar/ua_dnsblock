@@ -41858,6 +41858,7 @@ zone "personalkabinet.uk"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "personirwin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "personnews.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "perspekt.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pervomaysklnr.bezformata.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pervomaysklnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pes6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pestisracok.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
