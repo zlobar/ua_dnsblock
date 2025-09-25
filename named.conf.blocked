@@ -36076,6 +36076,7 @@ zone "forsagebet94.asia"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "forta.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fortunejack.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fortunepanda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "forum.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forum2paylink.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forumng.pl"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "forumpay0ne.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
