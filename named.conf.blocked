@@ -33822,6 +33822,7 @@ zone "bookmaker-ratings.ru"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "bookmaker.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmate.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmood.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bookovka.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "booksto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boombangcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
