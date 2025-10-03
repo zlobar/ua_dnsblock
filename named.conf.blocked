@@ -39372,6 +39372,7 @@ zone "mchs.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "mchs.rk.gov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mcxdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "md-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "md.sputniknews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mdsdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mdt.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mdz.te.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
