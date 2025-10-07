@@ -36755,6 +36755,7 @@ zone "goldmatic.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "goldroll.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goldtobacco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goliathcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "golos-naroda.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "golos.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "golos.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goloser.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39697,6 +39698,7 @@ zone "mid-dnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "mihazank.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mihetiu3.work"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mikepeirce.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mikle1.livejournal.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mil-lnr.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "milicia.lviv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "militaryarms.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43613,6 +43615,7 @@ zone "sevastopol.bezformata.com"	{ type master; file "/usr/local/etc/namedb/prim
 zone "sevastopol.press"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "seven.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "seven7.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sevkor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexbloggersmeeting.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
