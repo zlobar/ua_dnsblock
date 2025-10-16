@@ -32801,7 +32801,6 @@ zone "anonymbet.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "antifashist.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antifriz.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antifriziptv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "antikor.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antikrieg.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antimafia.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "antimafia.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
