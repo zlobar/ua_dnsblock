@@ -47242,6 +47242,7 @@ zone "www.bigwins02.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "www.bitcoincasino.us"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.bitdreams2.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.bitlemons.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.bitsler.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.bitstarz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.bitstarz58.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.bitstarz80.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
