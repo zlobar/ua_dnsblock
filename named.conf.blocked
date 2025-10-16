@@ -40701,6 +40701,7 @@ zone "news-zp.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "news.church.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.gtrklnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.mail.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "news.nashbryansk.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.rambler.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
