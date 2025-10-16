@@ -39947,6 +39947,7 @@ zone "mintrud.gov-dpr.ru"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "mintrud.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mintrudlnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "minuet.in"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minuet.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "minzdrav.govdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40599,6 +40600,7 @@ zone "nashdonbass.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "nashe.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nasopharyngealcancerpedia.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nataliyaandreeva.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "natashaescort.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nateks-don.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nateks-dv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nateks-ural.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43768,6 +43770,7 @@ zone "sexkiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "sexkiev.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkiev.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkieva.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sexkievu.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkievy.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexkompas.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sexzakaz.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -43866,6 +43869,7 @@ zone "simpakasino.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "simple.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sinod-molodost.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sirwin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sisidrivekiev.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sistemadiverti.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "site.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sitelinkday.icu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
