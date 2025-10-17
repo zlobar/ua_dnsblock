@@ -47368,6 +47368,7 @@ zone "www.netxcasino292.com"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "www.newsru.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ng.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.novakid.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.noveslovo.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.novorossia.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.nrhz.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ok.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -47458,6 +47459,7 @@ zone "www.sportloto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "www.sprt-96.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.sprutcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.spt96.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.srspol.sk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.starsplay.com-ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.stnmoscow.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.strana.bes"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
