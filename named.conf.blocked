@@ -47373,6 +47373,7 @@ zone "www.novorossia.org"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "www.nrhz.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ok.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ommer-automaten.nl"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.orizont.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.oshi.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.osnmedia.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.ott-antifriz.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
