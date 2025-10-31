@@ -45611,6 +45611,7 @@ zone "un-dopomoga.info"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "unatedtobaco.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uncutnews.ch"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "under.fm"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "under24.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ung.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uni-dopomoga.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "unian.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
