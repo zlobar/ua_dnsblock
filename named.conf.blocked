@@ -47027,7 +47027,6 @@ zone "walletseccures.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "walletspayments.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wandforyou.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wannasbet.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "warontherocks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin1.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin2.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
