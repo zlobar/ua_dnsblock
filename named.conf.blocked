@@ -38837,6 +38837,7 @@ zone "lb9877av.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "lb9996uy.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lbrspk0.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lckco.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ldbooks.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lead-lnk.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lead.gtrklnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "leader-books.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40674,6 +40675,7 @@ zone "narazliv.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "narazliv.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narazliv24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narcos24.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "narodedinstvo.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narodnoeopolchenie.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "narpolit.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nasepravda.cz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45564,6 +45566,7 @@ zone "uafav0rit.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "uafci5mb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uafilm.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uaflix.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uagov.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uagra.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uaid82826634.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uakino-bay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
