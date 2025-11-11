@@ -47265,6 +47265,7 @@ zone "wolf.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolfgangstreeck.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolfycasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wolnemedia.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "wolynpamietamy.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "womoxae6.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "woocasino.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "woocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
