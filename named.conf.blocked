@@ -38788,6 +38788,7 @@ zone "knifex.uno"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "knigi-na-balke.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knigograd.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knigovek.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "knigovo.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knijun.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knu.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knu.edu.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
