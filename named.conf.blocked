@@ -37101,6 +37101,7 @@ zone "goxbet37.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "goxbet5.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goxbetland.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "goxfamily.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "gp.by"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gpdnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gplnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gpress.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40226,6 +40227,7 @@ zone "mobilebet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "mobilemillions.co.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mocca-coffe.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "modernretailforum.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mogilevnews.by"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mok-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mokespaghetti.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "moldcheap.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40927,6 +40929,7 @@ zone "news.nashbryansk.ru"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "news.rambler.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "news.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "newsbryansk.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsdnepr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "newsinfo.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
