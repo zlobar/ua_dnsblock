@@ -34907,6 +34907,7 @@ zone "ctrana.newsversia.ru"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "ctrana.one"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ctrana.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ctwa0p0dfxmh.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "cubasi.cu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cube24.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cuerama.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cutiapandorei.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -35868,6 +35869,7 @@ zone "epsiholog.mcfr.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "equalityfest.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "eramedia.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "eratv.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ereport.sk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "erinekenney.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "erracetribune.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "es2opwjogewh.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -42767,6 +42769,7 @@ zone "port-tobacco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "portal2paylink.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "portalpay.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "portalprices.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "portfolio.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "portmone24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "portonl.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "poseidon-drinks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44178,6 +44181,7 @@ zone "shara-tv.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "sharavoz.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "share-3.gameassists.co.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "shareonline.vg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sharghdaily.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sharij.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sharij.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sharij.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -47952,6 +47956,7 @@ zone "www.politnavigator.net"	{ type master; file "/usr/local/etc/namedb/primary
 zone "www.ponomaryov.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.pravda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.pravyprostor.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.prensa-latina.cu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.probki.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.puntcampaign.co.za"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.puppybet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -48030,6 +48035,7 @@ zone "www.strana.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "www.strana.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.stupidcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.sultanbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.tasnimnews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.theamericanconservative.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.thestakehouse.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.tornadobet82.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
