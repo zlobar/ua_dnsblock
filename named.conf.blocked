@@ -40781,6 +40781,7 @@ zone "mrgreen.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "mriya.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrking.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrpapiros.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mrpl.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrplay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrqz.to"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mrsking.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
