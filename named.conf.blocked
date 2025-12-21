@@ -39478,6 +39478,7 @@ zone "llqvp8p.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "lnr-news.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lnr.media"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lnr.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lnr.yugsn.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lnrnews.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lobbet.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lobby.goldeneuro.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39732,6 +39733,7 @@ zone "marathonbet.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "mariacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mariacasino.ee"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mariupol-news.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mariupolnews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mariupolseashores.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "market-alko.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "market.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
