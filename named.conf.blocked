@@ -44140,6 +44140,7 @@ zone "russian.oplot.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "russian.rt.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "russiepolitics.blogspot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rustv.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "rustv.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rustvlive.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rusvesna.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rutube.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -48461,6 +48462,7 @@ zone "xn--80alhaapmlnekcaki9k.xn--p1ai"	{ type master; file "/usr/local/etc/name
 zone "xn--80ankicu1fva.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--80aucn.xn--j1amh"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--90adzbis.xn--c1avg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--b-ruba.bobfilm.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aasebc0aargg1d.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aea3ais.xn--p1acf"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--b1aew.xn--l1ahm"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
