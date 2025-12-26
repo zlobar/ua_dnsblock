@@ -36821,6 +36821,7 @@ zone "fvg90tj.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "fw24.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fx06fzudqxgp.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "g-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "g-tech-ua.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "g.bobfilm.in"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "g.bobfilm.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "g.kinogo2019.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -37094,6 +37095,7 @@ zone "gndcpue22q8n.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "gnsbpuj.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "go-kinogo.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "go-kinogo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "go-shop-ua.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "go-vulkan-vegas.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "go-xbet.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "go.3.51argocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -37922,6 +37924,7 @@ zone "independentteamstersorganizingcommittee.org"	{ type master; file "/usr/loc
 zone "indexkasaclub.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "india-melbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "india-melbet.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "indigoshop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "indx.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inf0pay2best.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "inf0pay2centr.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
