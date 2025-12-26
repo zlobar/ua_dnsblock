@@ -37586,8 +37586,10 @@ zone "help-fond-ukrain.icu"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "help-fond-ukrain.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "help-fond-ukrain.sbs"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "help-fond-ukrain.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "help-man-in-ukraine.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "help-privat24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "help-ukr.mobi"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "helper-yuristu24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "helpesbank.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "helpfond-ua.best"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "helping-privat24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -42953,6 +42955,7 @@ zone "poluchi-prava24.online"	{ type master; file "/usr/local/etc/namedb/primary
 zone "polychaika.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "polychenje.pw"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "polymarket.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "pomoch-juristu24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pomoch-uristov.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pomochs-uristov-online.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pomochuristov.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

@@ -37586,8 +37586,10 @@ help-fond-ukrain.icu
 help-fond-ukrain.online
 help-fond-ukrain.sbs
 help-fond-ukrain.shop
+help-man-in-ukraine.tilda.ws
 help-privat24.site
 help-ukr.mobi
+helper-yuristu24.online
 helpesbank.xyz
 helpfond-ua.best
 helping-privat24.site
@@ -42953,6 +42955,7 @@ poluchi-prava24.online
 polychaika.store
 polychenje.pw
 polymarket.com
+pomoch-juristu24.online
 pomoch-uristov.site
 pomochs-uristov-online.site
 pomochuristov.site
