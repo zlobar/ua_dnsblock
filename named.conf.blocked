@@ -45469,6 +45469,7 @@ zone "sust.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "svit-loto.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "svit-tyutyunu.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "svk-portal.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "svoidomfond.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "svpark-hotel.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "svpressa.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "swapcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
