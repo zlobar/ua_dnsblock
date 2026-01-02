@@ -42836,6 +42836,7 @@ zone "poc0kie.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "pochutchut.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "podgradusom.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "podgradusom.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "podpolyeua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pods.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "poehali.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "pogled.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
