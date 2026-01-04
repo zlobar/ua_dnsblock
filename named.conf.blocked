@@ -34042,6 +34042,7 @@ zone "bookmaker-ratings.ru"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "bookmaker.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmate.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmood.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bookmoodd.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookovka.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "booksto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -40449,6 +40450,7 @@ zone "mirfilm.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "mirk.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mirror888starz-1c.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mirson.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "miscareaderezistenta.ro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "missilejet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mistonache.ck.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mistoslotiv.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
