@@ -33132,7 +33132,6 @@ zone "avtodocuments.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "avtomaty.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "avtopribor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "avtoscholl-imperia.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "avtovin.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awa.kinogoclub.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awardmegood.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "awaybodrer.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45041,7 +45040,6 @@ zone "spastv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "spay4.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "specheart.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "special.ivi.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "specznak.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "speechkit.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spektrnews.xn--n-evb.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "spicyjackpots1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
