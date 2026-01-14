@@ -32463,6 +32463,7 @@ alco-ok.com
 alco-ok.shop
 alco-opt.store
 alco-pack-center.com
+alco-pack.com
 alco-pack.com.ua
 alco-pack.net
 alco-party.com
@@ -39833,6 +39834,7 @@ magyarjelen.hu
 magyarnemzet.hu
 mahorka.com.ua
 mail.ru
+mail.smooky-club.info
 mail.ua
 mail.wmid.com
 mail.yandex.ua
@@ -44579,6 +44581,7 @@ sicario.club
 sich-ua.info
 sicialgovunated.com
 siga-mir.com.ua
+siga-mix.com
 siga-sale.com
 siga-sale.icu
 siga-ua.com
@@ -44606,6 +44609,7 @@ sigaua.tech
 siggiopt.info
 sigiiopt.info
 sigioopt.org.ua
+sigioopts.info
 sigiopt.com
 sigiopt.in.ua
 sigiopt.info
@@ -44830,8 +44834,10 @@ smoke-club.online
 smoke-shop.in.ua
 smokejeen.com
 smokeopt.com.ua
+smokeopt.org.ua
 smokers.com.ua
 smokeshop.com.ua
+smokeshop.org.ua
 smokeua.store
 smokinslots.com
 smoky-club.info
@@ -45692,6 +45698,7 @@ tabacco.org.ua
 tabaccos.com.ua
 tabachini.ua
 tabachok.com.ua
+taback-ua.info
 tabaco.com.ua
 tabaco.in
 tabaco.in.ua
@@ -45704,8 +45711,10 @@ tabacos.in.ua
 tabacos.org.ua
 tabacoua.com
 tabacoua.com.ua
+tabacoua.in.ua
 tabacoua.org.ua
 tabak-gilza.com.ua
+tabak-market.info
 tabak-ua.info
 tabak-ua.net.ua
 tabak.biz.ua
@@ -45920,15 +45929,19 @@ tnt-online.ru
 to-receipt.com
 tobac.com.ua
 tobacco-market.com
+tobacco-market.net
 tobacco-market.org
 tobacco-shop.com.ua
+tobacco-shop.net
 tobacco-shop.org
 tobacco-shop.shop
 tobacco.net.ua
+tobaccoff.in.ua
 tobaccoff.net
 tobaccoff.org
 tobaccoplace.com.ua
 tobaccopt.com.ua
+tobaccos.cn.ua
 tobaccos.if.ua
 tobaccos.in.ua
 tobaccos.lt.ua
@@ -46084,6 +46097,7 @@ trust-gos.top
 trustdice.win
 trustmedclinic.com.ua
 trybet.com
+trybochku.com
 ts-1444.xyz
 ts-6889.xyz
 tsargrad.tv
