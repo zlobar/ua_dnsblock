@@ -33089,6 +33089,7 @@ zone "audiokazky.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "aufcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aufcasino20.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aufgogo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "aufstand-fuer-frieden.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "auftop.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "augmenting.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "aupayer.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -36914,6 +36915,7 @@ zone "g0t8melumb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "g6szuny.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "g9lkngt.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gagarin.partners"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "gagauznews.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "galactix.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "galaxy.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "galaxybet.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
