@@ -49060,7 +49060,6 @@ zone "ziwejaa8.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "zixcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zksdaomb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zloslot.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "znaj.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zno.yandex.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "znz32.ks.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zocntt.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
