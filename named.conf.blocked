@@ -41174,6 +41174,7 @@ zone "nabcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "naberu.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "naberu.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-gov.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "nabu-gov.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nabu-leaks.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
