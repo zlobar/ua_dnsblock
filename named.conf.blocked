@@ -38694,6 +38694,7 @@ zone "jtcrypto.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "jtfr-mutlukir.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ju.mp"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "juegaenlinea.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "jungewelt.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "junior-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "junker.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jupicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -47833,6 +47834,7 @@ zone "walletseccures.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "walletspayments.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wandforyou.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "wannasbet.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "wastok.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin1.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "watchmewin2.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
