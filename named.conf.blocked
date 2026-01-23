@@ -39832,6 +39832,7 @@ zone "magicwin2.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "magicwin3.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magnet21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magtorg.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "magtv.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarhirlap.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarjelen.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "magyarnemzet.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -41784,6 +41785,7 @@ zone "onekasaportal.shop"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "onekasavip.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "onekassa-24.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "onelike.tv.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "oneliketv.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "onemagazin.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "onepartners.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "onepaycentr.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -44849,6 +44851,7 @@ zone "smokyshop.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "smol.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smolnet.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smotreshka.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "smotrettv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smotri.kinogo-new.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smotrim.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smotru.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -45799,6 +45802,7 @@ zone "telephony.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "telepolis.de"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telesputnik.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "televizorus.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "telik.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telmanovo-dnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "telmanovo.dnr-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tempobet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -47498,6 +47502,7 @@ zone "visitkyiv.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "viski-mira.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "visnuk.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vitrina.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "vits.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "viupommb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vivi-cazino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "vivi-in31.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
