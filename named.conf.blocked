@@ -44207,7 +44207,6 @@ zone "royalstarscasino.com"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "royalvegascasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "royspins.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "royspins.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "rozvytok-avto.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rp-deals.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rp24.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "rpqtprf.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -46381,7 +46380,6 @@ zone "uawallet.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "uawallet.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ubet.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ubp.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "ucavtoshkola.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uchi.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ud2kw82.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "udostawka.ink"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
