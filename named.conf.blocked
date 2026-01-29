@@ -34144,6 +34144,7 @@ zone "bootlegger.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "bopeconuc.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "border-lawyer.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "borengo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "borotba.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bosstabaco.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bosstabaco.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bot.legal"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39346,6 +39347,7 @@ zone "kvmyp43.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "kxb3u9z.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kxk3v2m.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kyivmnu.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kyivstar-5g-invest.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kyivstarbezlim.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kz.melbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kzfan-sport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
