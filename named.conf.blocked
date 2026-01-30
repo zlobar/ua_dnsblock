@@ -46560,6 +46560,7 @@ zone "ukr-compesations.xyz"	{ type master; file "/usr/local/etc/namedb/primary/e
 zone "ukr-dispay.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-dopomog.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-insider.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "ukr-leaks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-linker.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-next.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ukr-ontime.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
