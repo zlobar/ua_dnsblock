@@ -33142,7 +33142,6 @@ zone "auto-transfer.pro"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "auto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "autodetails.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "autoflot.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "autonomera.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "autoscout24.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ava6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "avalon78.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
