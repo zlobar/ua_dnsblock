@@ -1,0 +1,6 @@
+ua.news-pravda.com
+news-pravda.com
+trump.news-pravda.com
+nato.news-pravda.com
+eu.news-pravda.com
+
