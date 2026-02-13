@@ -48516,6 +48516,7 @@ zone "www.grompokerua13.com"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "www.grompokerua33.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.group-ib.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.group-ib.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "www.grozny-inform.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.gtrklnr.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.gudarcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "www.hazcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
