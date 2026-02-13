@@ -45948,6 +45948,7 @@ zone "teamplay.qiwi.com"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "tebwin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tech-swat-team.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tech.yandex.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "technology-5g-connect.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "techport.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tehno-zona.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "tehnotop.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
