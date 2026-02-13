@@ -44842,6 +44842,7 @@ zone "sk2-ex550.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "skadovsk.khogov.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "skandaly.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "skelet.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "skelet.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "skgazeta.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "skillbox.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "skillbox.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
