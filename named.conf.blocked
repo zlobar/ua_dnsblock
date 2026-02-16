@@ -39391,6 +39391,8 @@ zone "kxk3v2m.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "kyivmnu.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kyivstar-5g-invest.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kyivstarbezlim.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kyt-obmin.kyiv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kytgroup.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kz.melbet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kzfan-sport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kzingdemo88.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -41822,6 +41824,7 @@ zone "o2bkrqc.click"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "o3foz5o.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oakfs-uk.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ob.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "obmenat24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "obozrevatel.ltd"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "obraticasino.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "oc-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
