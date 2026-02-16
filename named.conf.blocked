@@ -40704,6 +40704,7 @@ zone "minzdrav.govdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "minzdrav.lpr-reg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mio.com.gr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mir-apteka.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mir-knig.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mir.tartugi.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "miralab.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "miraxcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
