@@ -34105,6 +34105,7 @@ zone "blogprices.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "bloknot-herson.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bloodmooncasino.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bloomsupernova.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bltmore.io"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bm-edopomoga.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bmj3lnmoewmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bmpvsu.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
