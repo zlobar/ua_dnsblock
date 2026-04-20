@@ -1,4 +1,5 @@
 server:
+local-data: " A 127.0.0.1"
 local-data: "00003421.com A 127.0.0.1"
 local-data: "003.lordfilmtv.cfd A 127.0.0.1"
 local-data: "004.lordfilmtv.cfd A 127.0.0.1"
@@ -49980,6 +49981,8 @@ local-data: "xml.yandex.ru A 127.0.0.1"
 local-data: "xml.yandex.ua A 127.0.0.1"
 local-data: "xmodztmb.com A 127.0.0.1"
 local-data: "xmrfqvoi.tvclub.xyz A 127.0.0.1"
+local-data: "xn--$-flc1ct A 127.0.0.1"
+local-data: "xn--0-8kca4bgmnbch9gwdvg A 127.0.0.1"
 local-data: "xn----7sbahmg5af5dr7b.com.ua A 127.0.0.1"
 local-data: "xn----7sbaibsrbdgjg2ajh3avggdk9e.xn--p1ai A 127.0.0.1"
 local-data: "xn----7sbb4avoiu9b.in.ua A 127.0.0.1"
