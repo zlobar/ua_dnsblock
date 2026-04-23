@@ -1,7 +1,7 @@
 
 blocklist/
 ------
-Доменні імена, що підлягають блокуванню відповідно до [Розпоряджень НЦУ](https://cip.gov.ua/ua/filter?tagId=60751), рішень [НКЕК](https://nkek.gov.ua/calendar/decisions?&page=1), [РНБО](https://www.rnbo.gov.ua/ua/Documents/) і [Нацради](https://webportal.nrada.gov.ua/decisions/), [Указів Президента України](https://www.president.gov.ua/documents/decrees)
+Доменні імена, що підлягають блокуванню відповідно до [Розпоряджень НЦУ](https://cip.gov.ua/ua/filter?tagId=60751), рішень [НКЕК](https://nkek.gov.ua/calendar/decisions?&page=1), [РНБО](https://www.rnbo.gov.ua/ua/Documents/), [Нацради](https://webportal.nrada.gov.ua/decisions/), [Агенства ПлейСіті](https://playcity.gov.ua/rozporiadchi-dokumenty-pleisiti?&act_section_id=7), [Указів Президента України](https://www.president.gov.ua/documents/decrees)
 
 whitelist/
 ------
