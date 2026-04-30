@@ -13,3 +13,5 @@ https://kinobar.org/
 https://kinobar.fun/
 https://kinobar-hd.mirfilm.net/
 https://kinobar.mirfilm.net/
+
+ua.kinobar.day

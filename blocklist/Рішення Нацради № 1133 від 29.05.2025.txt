@@ -32,3 +32,6 @@ https://mi.tartugi.net
 https://m.tartugi.net
 https://cine.tartugi.net
 https://v4.tartugi.uno
+
+251125.tartugi.net
+tartugi.me
