@@ -32,3 +32,6 @@ mi.tartugi.net
 m.tartugi.net
 cine.tartugi.net
 v4.tartugi.uno
+ua.kinobar.day
+251125.tartugi.net
+tartugi.me
