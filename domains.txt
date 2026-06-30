@@ -35685,6 +35685,7 @@ centrpayplus.shop
 centrpayportal.shop
 centrpaytime.shop
 centrpaytop.shop
+centrspina.com.ua
 cerambycidae.ru
 cerkvarium.org
 cevse.com.ua
@@ -37712,6 +37713,7 @@ fckremin.com.ua
 fcsd.tv
 fearpay.online
 fedorchenko.com.ua
+fedpress.ru
 fen.wf
 feniksscasino.lv
 fenix.casino
@@ -38755,6 +38757,8 @@ gknslnr.su
 gkslnr.su
 gktrlnr.su
 gl-pay.me
+glagol.mirtesen.ru
+glagol.press
 glasove.com
 glava-lnr.info
 glava-lnr.su
@@ -39891,6 +39895,7 @@ informators.press
 informiran.net
 inforos.com
 inforos.ru
+inforum.online
 infosperber.ch
 infovestnik.blogspot.com
 infovojna.bz
@@ -40676,6 +40681,7 @@ joocasino.com
 joocasino21.com
 jopa.vodka
 journalcrimea.ru
+joursev.ru
 jox-power.com
 joycasino-promokod.com.ua
 joycasino.com
@@ -42676,6 +42682,7 @@ medafarm.com
 medcollege.ck.ua
 medhacks.io
 media-xyz.com
+mediaholding.fedpress.ru
 mediapuls.ru
 medliki.com.ua
 medsprava1.com.ua
@@ -43351,6 +43358,7 @@ mirfilm.net
 mirk.com.ua
 mirror888starz-1c.com
 mirson.com.ua
+mirtesen.ru
 miscareaderezistenta.ro
 missilejet.com
 mistonache.ck.ua
@@ -44544,6 +44552,7 @@ ob.casino
 obmenat24.com
 obozrevatel.ltd
 obraticasino.com.ua
+obyektiv.press
 oc-pay.me
 occhisulmondo.info
 occupationaltherapypedia.com
@@ -46615,6 +46624,7 @@ programminglambda.com
 progress-bel.ru
 proisvol.info
 project-cope.com
+projects.fedpress.ru
 prokasaclub.shop
 prokasaday.shop
 prokasaexpress.shop
@@ -46666,6 +46676,7 @@ prosto.fm
 prostobest.com
 prosv.ru
 protabak.com.ua
+protatarstan.ru
 proteamshop.kz
 protect-pay.org
 protect-pays.org
@@ -47670,6 +47681,7 @@ rubyslotscampaigns.com
 rudiyjmb.com
 rudkts.kz
 rufuscasino.com
+ruj.ru
 ruleepay.com
 rulook.tv
 rumafia.io
@@ -49494,6 +49506,8 @@ tartugi.me
 tartugi.net
 tas-ix.tv
 tass.ru
+tatar-inform.ru
+tatar-inform.tatar
 taurica.net
 tavria.tv
 taxi-yandex.com.ua
@@ -52354,6 +52368,7 @@ www.casinoshub.com
 www.casinostars.io
 www.casinostars1.io
 www.casinotoken.com
+www.centrspina.com.ua
 www.ckimm.com.ua
 www.cloudbet.com
 www.cloudbet888.com
@@ -52790,6 +52805,7 @@ www.yoomoney.ru
 www.z8.com
 www.zemavek.sk
 www.zerohedge.com
+www.zjourn.ru
 www2.kinobarzz.top
 www2.x24bet.com
 www4.casino770.com
