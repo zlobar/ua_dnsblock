@@ -39009,6 +39009,7 @@ glasove.com
 glava-lnr.info
 glava-lnr.su
 glava.rk.gov.ru
+glavk.se
 glavnee.net
 glavpost.com.ua
 glavpost1.com.ua
@@ -41426,6 +41427,7 @@ karo.spb.ru
 karpatybet.com
 karpov.courses
 kartka.com.ua
+kartoteka.news
 karusel-tv.ru
 kasiino.com
 kasino-cosmolot.com.ua
@@ -41886,6 +41888,7 @@ kommersant.ru
 komok-market.shop
 komok-market.store
 kompromat.name
+kompromat1.online
 kompromat100.info
 komtv.org
 konjak.net.ua
@@ -45014,6 +45017,7 @@ novorossiatv.com
 novorus.info
 novoselica.cv.ua
 novosti-tchasa.com
+novosti.cloud
 novosti.icu
 novostidnya24.ru
 novostimira24.ru
@@ -48956,6 +48960,7 @@ slavlnr.su
 slavvesti.su
 slavyansk-news.ru
 sleds.pro
+sledst.org
 sledstvie.info
 slivhub.life
 slm.games
@@ -52339,6 +52344,8 @@ vivibet1.com
 vivitr-giris.com
 viviuz.net
 vk.com
+vlasti.io
+vlasti.net
 vlc-club-slot.com
 vlfeshop0.shop
 vlmi.one
