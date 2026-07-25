@@ -34761,6 +34761,7 @@ zone "alco-market.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "alco-market.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-market.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alco-market.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-mir.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ok.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alco-ok.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
