@@ -41149,6 +41149,7 @@ zone "foxygold.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "fpdnr.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fpjuwwy.cyou"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fplnr.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "fq93x0zog.stolichnyy-market.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fqb5hw.cn"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fr-payment.men"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fr.annas-archive.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -55021,6 +55022,7 @@ zone "samokrutka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "samopomich.lviv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "samosacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sande-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sankiv.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sankiv.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sanmart.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "santa-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -55726,6 +55728,7 @@ zone "smoke-club.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "smoke-club.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-club.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-jeen.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "smoke-shop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-shop.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smoke-system.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokejeen.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
