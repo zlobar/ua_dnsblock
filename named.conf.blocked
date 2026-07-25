@@ -38943,6 +38943,7 @@ zone "dopomoga-help.net"	{ type master; file "/usr/local/etc/namedb/primary/empt
 zone "dopomoga-help.tk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-hlp.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-io.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dopomoga-juver.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-on.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-online.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -38968,6 +38969,7 @@ zone "dopomoga-ukraine.site"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "dopomoga-ukraine.space"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-uristaonline24.store"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga-uristov-online.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "dopomoga-yuristay24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga.cv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "dopomoga.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -57389,6 +57391,7 @@ zone "ura.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uralpress.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urbanspace500.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urepayment.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "uridichna-dopomoga24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urist-compani-ukr24.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "urist.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uristy-company-on.website"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
