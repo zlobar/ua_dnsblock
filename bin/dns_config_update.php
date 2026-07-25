@@ -55,6 +55,9 @@ foreach ($files as $fname) {
 		}
 		elseif ($l!="" && !in_array($l,$domains_unlock)) {
 			$domains[]=$l;
+			if (preg_match("/^www\.(.*)/i",$l,$matches) && !in_array($matches[1],$domains_unlock)) {
+				$domains[]=$matches[1];
+			}
 		}
 	}
 }
