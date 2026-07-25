@@ -19,3 +19,9 @@ https://www.bestchange.com/
 https://www.bestchange.org
 https://www.bestchange.net
 https://www.bestchange.info
+
+bestchange.com
+bestchange.info
+bestchange.net
+bestchange.org
+bestchange.ru
