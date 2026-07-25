@@ -59657,6 +59657,7 @@ zone "volonter-dopomoga.online"	{ type master; file "/usr/local/etc/namedb/prima
 zone "voloshyna.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voltairenet.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voltbet.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "volunteer.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voodoo1.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voshod-surag.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "voshodprint.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -61053,6 +61054,7 @@ zone "xn--kko-red.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "xn--lfedon-pvf.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--lko-mag-1fg.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--mstk-53d0gyhb.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "xn--nkasamicro-w2i.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn--parwn-p2eb.xn--n-evb.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xn-80aaebiwakef5bihomko5omhe.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "xnptmhmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
