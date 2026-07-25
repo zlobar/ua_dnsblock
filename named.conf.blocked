@@ -34616,6 +34616,7 @@ zone "ajurduty.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "ak-joycasino.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akademiya.znanierussia.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akazino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "akcent-media.tv"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akciatv.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akciatv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akhmetovfoundation.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -48533,6 +48534,7 @@ zone "morepayplus.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "morepaypro.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "morepaytime.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "morepaytop.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "morkovka.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "moscowmedia.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mospravda.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "most-bet.spas-extreme.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
