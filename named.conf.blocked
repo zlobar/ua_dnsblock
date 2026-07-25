@@ -51492,7 +51492,6 @@ zone "p-invezt.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "p-m-c-best.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "p-m-win.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "p-mbest.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "p-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "p-rt86427g1.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "p.bobfilm.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "p.kinogo-filmov.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -58296,6 +58295,7 @@ zone "uoe.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "uoj.news"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uonline.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "uoperev.ucoz.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "up-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "up-pay.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "up-pay.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "up0zir8x.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
