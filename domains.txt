@@ -37148,6 +37148,7 @@ ccgetim.click
 ccs1.site
 cdas.top
 cdk.vegaswild.com
+cdl.sprf.ru
 cdn.adpool.bet
 cdn.iptv.monster
 cdn.only4.tv
@@ -37970,6 +37971,7 @@ dompayproduct.shop
 dompaystore.shop
 dompayweek.shop
 dompaywin.shop
+dompisateley.wordpress.com
 domtab.com
 domtab.com.ua
 domtabaka.biz
@@ -52676,6 +52678,7 @@ sprav.yandex.ru
 sprav.yandex.ua
 spravochki.org
 spree.com
+sprf.ru
 sprint.runstd.com
 sprintex.online
 sprintex.pro
@@ -57208,6 +57211,7 @@ zhdanovka.ugletele.com
 zhitomir-news.ru
 zhitomirnews.ru
 zhuki.kharkov.ua
+zhurmir.sprf.ru
 zhyvy-sercem.com.ua
 zigzag777.com
 zigzagsport.com
