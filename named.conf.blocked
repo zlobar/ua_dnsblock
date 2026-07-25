@@ -45656,6 +45656,7 @@ zone "manekicasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "mangacasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mangocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "manlifethemovie.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "manzaroils.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "map.ck.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "maplebet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "marafon.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
