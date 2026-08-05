@@ -42964,6 +42964,7 @@ zone "gulkevichi.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "gullents.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gum-centr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "guprec.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "gur-official.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gur-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gusar-online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "guts.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
