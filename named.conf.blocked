@@ -63051,7 +63051,6 @@ zone "z9.uzor.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "z91.uzor.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "za6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zacordon-online24.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "zadarma.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zafeaumb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zakord-online24.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "zakordon.2024.tilda.ws"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
