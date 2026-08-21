@@ -52676,7 +52676,6 @@ zone "msk.top-academy.ru"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "mskagency.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "msl.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "msl.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "msl.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mslnr.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mspayment.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mspayment.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
