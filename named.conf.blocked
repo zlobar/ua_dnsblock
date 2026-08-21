@@ -39116,6 +39116,7 @@ zone "bookmood.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "bookmoodd.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookovka.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "booksto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bookstore.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-x8.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boombangcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
