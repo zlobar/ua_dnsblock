@@ -171,6 +171,7 @@
 1-topmatch.if.ua
 1-topmatch.vn.ua
 1-win.br.com
+1-winua.com
 1-x-bet.com
 1.bobfilm.in
 1.bobfilm.org
@@ -13359,6 +13360,7 @@
 1win-oauth.com
 1win-official.com
 1win-onewin.com
+1win-original.com.ua
 1win-partner.com
 1win-partners.com
 1win-partners.life
@@ -13370,6 +13372,8 @@
 1win-stavki.net
 1win-traffic-race.life
 1win-typ.top
+1win-ua.org
+1win-ukraine.com.ua
 1win-uzbekistan.com
 1win-zerkalo.net
 1win-zerkalo.org
@@ -13399,6 +13403,7 @@
 1win.pro
 1win.run
 1win.sn
+1win.softonic.ru
 1win.studio
 1win.team
 1win.work
@@ -35555,6 +35560,7 @@
 2-jp-palace.run
 2.2.50zigzag777.com
 2.telek.me
+2020ua.org
 2021.lordfilm.lu
 20bb32.cyou
 20bitstarz.com
@@ -36119,6 +36125,7 @@
 425vulkanvegas.com
 427vulkanvegas733.com
 42911mp442.top
+42goxbet.com
 42parik-24.com.ua
 437game.site
 4395.fun
@@ -36671,6 +36678,8 @@ a.bobfilm.in
 a.hd-kinogo.co
 a.kinogo-hd.org
 a17zi8ktc3je8qsmst.com
+a1iwin.com
+a1iwin.net
 a1lwin.com
 a1lwln.com
 a24.com.ua
@@ -36682,6 +36691,7 @@ a3bmmz5.life
 a50fmtz.life
 a6xndqk.life
 a705g40.xyz
+a89afx7mb.com
 a93kfnds.com
 a9xuscb.life
 aaio.so
@@ -36868,8 +36878,10 @@ aids-dopomoga.org.ua
 aidsa-dopomoga.org.ua
 aidx-edopomoga.biz.ua
 aif.ru
+aiiwin.com
 ailvvin.net
 ailw1n.com
+ailwln.net
 air2.parimatch.com
 airbet.io
 airfest.vn.ua
@@ -36894,6 +36906,7 @@ ako8zfgtz0kr.pro
 akula.lutsk.ua
 al-ko.club
 al1vvin.net
+al1w1n.net
 al1win.com
 al1wins.com
 alacritas.ru
@@ -37311,6 +37324,7 @@ alinkpay.store
 alishop.com.ua
 alishop.in.ua
 alishop.kiev.ua
+aliwin.vip
 aliwln.com
 alizabet.com
 alizerinkov.fun
@@ -37495,6 +37509,7 @@ all-win-ua.org.ua
 all-win.biz.ua
 all-win.com.ua
 all-win.if.ua
+all-win.net
 all-win.od.ua
 all-win.online
 all-winua.com
@@ -37599,6 +37614,7 @@ allsport8strz.com
 allstarcasino.com
 alltex.kiev.ua
 allvin.co
+allvin.net
 allvvim.com
 allvvim.net
 allw1n.com
@@ -37610,8 +37626,12 @@ allw1nua.com.ua
 allw1nua.net
 allw1nua.org
 allw1nua.org.ua
+allwin-2.com
+allwin-bet.net.ua
+allwin-bonus-ua.com.ua
 allwin-bonus.co.ua
 allwin-cars.com.ua
+allwin-casino-online.com.ua
 allwin-casino-ua.com.ua
 allwin-casino.co.ua
 allwin-casino.com
@@ -37619,6 +37639,7 @@ allwin-casino.dn.ua
 allwin-casino.dp.ua
 allwin-casino.if.ua
 allwin-casino.in.ua
+allwin-casino.ks.ua
 allwin-casino.lg.ua
 allwin-casino.lviv.ua
 allwin-casino.net
@@ -37628,6 +37649,7 @@ allwin-casino.rv.ua
 allwin-casino.zt.ua
 allwin-casino24.com.ua
 allwin-food.com.ua
+allwin-game-ua.com.ua
 allwin-games.co.ua
 allwin-games.com.ua
 allwin-games.in.ua
@@ -37642,7 +37664,9 @@ allwin-onlineua.com.ua
 allwin-play.co.ua
 allwin-play.com.ua
 allwin-ua-casino.com
+allwin-ua-casino.com.ua
 allwin-ua-casino.net
+allwin-ua-slots.in.ua
 allwin-ua.ck.ua
 allwin-ua.cv.ua
 allwin-ua.if.ua
@@ -37652,6 +37676,7 @@ allwin-ua.lg.ua
 allwin-ua.lt.ua
 allwin-ua.lviv.ua
 allwin-ua.mk.ua
+allwin-ua.online
 allwin-ua.org.ua
 allwin-ua.pl.ua
 allwin-ua.rv.ua
@@ -37686,6 +37711,7 @@ allwin.kiev.ua
 allwin.kr.ua
 allwin.lg.ua
 allwin.obagi.kiev.ua
+allwin.online
 allwin.rv.ua
 allwin.te.ua
 allwin.upa.com.ua
@@ -37697,12 +37723,14 @@ allwin.webkatalog.kiev.ua
 allwin.webkatalog1.kiev.ua
 allwin.webkatalog2.kiev.ua
 allwin.webkatalog3.kiev.ua
+allwin.xyz
 allwin.zt.ua
 allwin1.ck.ua
 allwin1.if.ua
 allwin1.kiev.ua
 allwin1.uz.ua
 allwin1.zt.ua
+allwin10.com.ua
 allwin14.com.ua
 allwin15.com.ua
 allwin17.com.ua
@@ -37713,28 +37741,42 @@ allwin20.com.ua
 allwin24-nauka-info.com.ua
 allwin24.co.ua
 allwin24.in.ua
+allwin24.kiev.ua
 allwin24.nauka-info.com.ua
 allwin24.org.ua
 allwin3.ck.ua
 allwin3.zt.ua
+allwin365.co.ua
 allwin365.in.ua
 allwin4.ck.ua
 allwin5.ck.ua
 allwinbest.ks.ua
+allwinbet-ua.com.ua
 allwinbet.co.ua
 allwinbet.com.ua
+allwinbet.in.ua
 allwinbet.net.ua
 allwinbet.store
+allwinbet365.com.ua
+allwinbetcasino.com.ua
+allwinbetting.com.ua
 allwinbetua.com.ua
 allwincash.com
+allwincasino-ua.com
 allwincasino.com.ua
 allwincasino.eu.com
 allwincasino.in.ua
 allwincasino.online
+allwincasinoplay.com.ua
 allwincasinoua.com.ua
+allwinclub-casino.com.ua
+allwinclub.co.ua
 allwinclub.sbs
+allwingamehall.com.ua
 allwingames.co.ua
 allwingames.com.ua
+allwingames.in.ua
+allwingra.co.ua
 allwingra.com.ua
 allwininua.com.ua
 allwinit.com.ua
@@ -37744,6 +37786,7 @@ allwinlucky.com
 allwinner.com.ua
 allwinnua.com.ua
 allwinonline.com
+allwinonline.com.ua
 allwinonline24.com.ua
 allwinonlineplay.com.ua
 allwinpartners.com
@@ -37755,9 +37798,14 @@ allwinscasino.xyz
 allwinslots.com
 allwinslots.com.ua
 allwinspins.com
+allwintopua.com.ua
+allwinua-bet.in.ua
+allwinua-bonus.com.ua
+allwinua-casino-online.com.ua
 allwinua-casino.com
 allwinua-casino.com.ua
 allwinua-kasino.com.ua
+allwinua-play.com.ua
 allwinua.com
 allwinua.com.ua
 allwinua.org.ua
@@ -37774,10 +37822,15 @@ allwinua24.net
 allwinua365.com.ua
 allwinua777.com.ua
 allwinuacasino.com.ua
+allwinuaclub.com.ua
+allwinuagambling.com.ua
 allwinuakasino.com.ua
 allwinuakazino.com.ua
+allwinuamobile.com.ua
 allwinuaplay.com.ua
 allwinuaslots.com.ua
+allwinuaslots24.com.ua
+allwinuavipcasino.com.ua
 allwinuawin.com.ua
 allwinuawinua.com.ua
 allwinukr.com.ua
@@ -37807,6 +37860,7 @@ altitudetemporal.top
 alv.aqs-lordfilm.ru
 alv.mw-lordfilm.ru
 alv.wz-lordfilm.ru
+alwin.biz
 aly.aqs-lordfilm.ru
 aly.mw-lordfilm.ru
 aly.wz-lordfilm.ru
@@ -38011,6 +38065,7 @@ apteka1.info
 aptekadobraya.com.ua
 aptekaplus.com.ua
 apuestasegura.xyz
+apvfmemost.com
 apx-old1.com
 apx-oldgate.com
 apx1-oldroute.com
@@ -38154,6 +38209,7 @@ auto-doc.uno
 auto-document.com.ua
 auto-documenti.com.ua
 auto-prava.site
+auto-schrott.com.ua
 auto-store.site
 auto-transfer.pro
 auto.ru
@@ -38384,6 +38440,7 @@ bc-game-philippines.com
 bc-game.casino
 bc-game.com.ng
 bc-game.in
+bc-games.site
 bc-pay.me
 bc.app
 bc.casino
@@ -38394,6 +38451,7 @@ bc.one
 bc.online
 bc.poker
 bc.pro
+bc.site
 bc.vin
 bc.xyz
 bc100xwin.com
@@ -38420,17 +38478,20 @@ bcgame-ua.com
 bcgame-vietnam.com
 bcgame.ai
 bcgame.center
+bcgame.club
 bcgame.co.in
 bcgame.com
 bcgame.com.ua
 bcgame.im
 bcgame.li
 bcgame.mx
+bcgame.net
 bcgame.nz
 bcgame.ph
 bcgame.sk
 bcgame.st
 bcgame.top
+bcgame.xyz
 bcgame0.com
 bcgame2.com
 bcgame30.com
@@ -39687,6 +39748,7 @@ bons16.com
 bons17.com
 bons18.com
 bonus-hunter.com.ua
+bonus-mostbet.org
 bonus-vegas.com
 bonus.11dudebet.com
 bonus.1dude.bet
@@ -40005,6 +40067,7 @@ campalienate.cyou
 campeonbet.com
 campeonuk.com
 canadapeptides.com.ua
+candb.com.ua
 candy.casino
 candy1.casino
 candy10.best
@@ -40881,6 +40944,7 @@ civilisationcaravan.top
 cjq7sf.cyou
 ck-dislpay.online
 ckimm.com.ua
+cktpu.org.ua
 cku.org.ua
 clan13.net
 clan13.one
@@ -42299,6 +42363,7 @@ dubibet15.com
 dublinbet.com
 dublinbetvips.com
 dubnorada.rv.ua
+duda.org.ua
 duda.store
 dude-bet.com
 dude-bet.com.ua
@@ -43961,6 +44026,7 @@ fm5.site
 fmdo9n1.life
 fmt.me
 fnghn8.cyou
+fnhesrmost.com
 fobopay.com
 focus-news.net
 foggybet.com
@@ -46047,6 +46113,7 @@ goxbet-cazino.com
 goxbet.bet
 goxbet.biz.ua
 goxbet.com
+goxbet.site
 goxbet.xyz
 goxbet1.casino
 goxbet1.com
@@ -46067,6 +46134,7 @@ goxbet24.com
 goxbet25.com
 goxbet26.com
 goxbet27.com
+goxbet27.online
 goxbet28.com
 goxbet29.com
 goxbet3.com
@@ -47251,6 +47319,7 @@ igov.life
 igov.website
 igov.work
 igra123.com
+igrad.com.ua
 igrovoyportal.click
 igrovye-apparaty.org
 igrovyeavtomati.com.ua
@@ -50227,6 +50296,7 @@ kommersant.ru
 komok-market.com
 komok-market.shop
 komok-market.store
+kompromat.kiev.ua
 kompromat.name
 kompromat1.online
 kompromat100.info
@@ -50352,6 +50422,7 @@ kvitum.com
 kvmyp43.top
 kw6.site
 kxb3u9z.click
+kxfmqfgmb.com
 kxk3v2m.top
 kyflxmmb.com
 kyiv2invest.com
@@ -53230,6 +53301,7 @@ modificationrevengeful.top
 mogilevnews.by
 mohavepay.com
 mohiogaming.com
+moivirshi.com.ua
 mok-pay.com
 mokespaghetti.tech
 moldcheap.space
@@ -53492,6 +53564,7 @@ mosc-pays.me
 moscowmedia.net
 mosfm.com
 mospravda.ru
+most-bet.com.ua
 most-bet.spas-extreme.ru
 most-news.zp.ua
 most-s.com
@@ -53499,8 +53572,11 @@ mostbet-347.com
 mostbet-az27.com
 mostbet-bn27.com
 mostbet-ca1.com
+mostbet-casino-now.com
+mostbet-com.softonic.ru
 mostbet-en27.com
 mostbet-gmpl.com
+mostbet-kz.de.com
 mostbet-now.com
 mostbet-official.eu.com
 mostbet-online-com.com
@@ -53509,6 +53585,7 @@ mostbet-online.it.com
 mostbet-promo-code.com.ua
 mostbet-ru30.com
 mostbet-slots.com.kz
+mostbet-top.com
 mostbet-ua27.com
 mostbet-ua28.com
 mostbet-ua29.com
@@ -53520,12 +53597,14 @@ mostbet.com
 mostbet.net.ua
 mostbet.pp.ua
 mostbet.ru
+mostbet.ru.uptodown.com
 mostbet.spas-extreme.ru
 mostbet1.mus-art-lyceum.pl.ua
 mostbet100.com
 mostbet777.in.ua
 mostbetapk.com
 mostbetcasinoua.com
+mostbetgold.pro
 mostbetin1.com
 mostbetin7.com
 mostbetir11.com
@@ -53573,6 +53652,7 @@ mostbetua.org
 mostbetua19.com
 mostbetua20.com
 mostbetukraine.website3.me
+mostbetvhod.com
 mostlybehind.store
 mostlywinner.bond
 mosx-pays.info
@@ -54914,6 +54994,7 @@ one-vv000.com
 one-vv001.com
 one-vv0010.life
 one-vv0011.com
+one-vv0018.com
 one-vv002.com
 one-vv0025.life
 one-vv003.com
@@ -57998,6 +58079,7 @@ pf6.site
 pflnr.su
 pfsqte.cyou
 pg11.live
+pg5i0mmb.com
 pgf.rv.ua
 ph.casino
 pharma247.com.ua
@@ -58132,6 +58214,8 @@ play.fansbet.com
 play.gaminator.com
 play.livegames.ru
 play.monkeycasino.com
+play.most-betcasino.help
+play.most-betcasinokk.click
 play.pm-web.cc
 play.pmlive.cc
 play.pmlive.info
@@ -59517,6 +59601,7 @@ r5ga36c.xyz
 r6wa4ry.click
 r6xzso5.click
 r72ws4obu7r3.pro
+r7ycnmimb.com
 r82.fss.ru
 r82.fssprus.ru
 r902nignd.com
@@ -63300,6 +63385,7 @@ topaussiepokies.org
 topbet.ru
 topcasino-amp.in.ua
 topcassinisonlines2022.com
+topclub.com.ua
 topcor.ru
 topfarma.com.ua
 topfarma.net.ua
@@ -63435,6 +63521,7 @@ tournaverse.com
 tov5quh.top
 tp-mir-250money.com
 tp-mirr-250money.com
+tp4cvbmb.com
 tppdnr.ru
 tprzbzmb.com
 tpshenichna-sleza.site
@@ -65857,6 +65944,7 @@ vln-irrs.com
 vlnwv01.top
 vmakeevke.com
 vnevremeni.com.ua
+vniti.dp.ua
 vnl.com.ua
 vocaldrive.com.ua
 vodabrd.com.ua
