@@ -37854,6 +37854,7 @@ zone "anchorcda.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "andreswari.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "anglebright.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "angliabet.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "animaccord.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "anix.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ank.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ankawabet.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
