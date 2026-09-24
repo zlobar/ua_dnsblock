@@ -47185,7 +47185,6 @@ zone "hromady.photos"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "hs3x.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hschool.medsprava1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "htmlacademy.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "htps:"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hu.news-front.su"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hu4yea7.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hubgenie.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -66199,6 +66198,7 @@ zone "volna-casino34.com"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "volna-casino35.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "volna-casino37.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "volna-casino38.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "volna-casino39.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "volna-casino4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "volna-casino40.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "volna-casino41.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
