@@ -57488,6 +57488,7 @@ zone "nv-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; }
 zone "nv.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nvcasino.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nvk9.ks.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "nvukraine.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nx-dispay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nxel0i.cyou"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "nyko.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
