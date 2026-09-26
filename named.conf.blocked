@@ -56012,7 +56012,7 @@ zone "money167.website"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "money237.host"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "money24.dp.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "money24.kharkov.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "money24.kiev.u"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "money24.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "money24.lviv.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "money24.mk.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "money24.od.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };

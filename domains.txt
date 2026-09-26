@@ -56012,7 +56012,7 @@ money167.website
 money237.host
 money24.dp.ua
 money24.kharkov.ua
-money24.kiev.u
+money24.kiev.ua
 money24.lviv.ua
 money24.mk.ua
 money24.od.ua
