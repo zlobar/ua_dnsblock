@@ -43296,7 +43296,6 @@ zone "co-insgame.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "co-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "co.betmgm.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "co.kinogo-hd.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
-zone "co.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "coach-pay.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "coba1t-2apeks.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "cobra3.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -52372,7 +52371,9 @@ zone "ka8ih63.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "kabinetonline.uk"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kaboo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kachorovska.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kadastr.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kadastr.live"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "kadastrova-karta.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kadrovik1.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kagroup.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "kahuna777.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -64044,6 +64045,7 @@ zone "sitepayweek.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty
 zone "sitepayword.tech"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sitepayworld.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sites.money"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "sixthwork.mypi.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "siykmpmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sk2-ex493.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "sk2-ex550.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
