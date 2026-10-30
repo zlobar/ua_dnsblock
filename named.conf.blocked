@@ -39296,6 +39296,7 @@ zone "alcomarket.fun"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "alcomarket.in"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcomarket.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcomarket.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcomarket.shop"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcomarket.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcomarket.uno"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcomax.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39372,6 +39373,7 @@ zone "alcotraffic.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/emp
 zone "alcotraffik.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotraffik.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotraffik.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alcotraffik.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotrafic.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotrafic.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alcotrafik.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -39472,6 +39474,7 @@ zone "alko-kiyv.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "alko-korobbca.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-korobbka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-korobka.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "alko-korobka.net.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-lavka.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-lavka.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "alko-lavka.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -55064,6 +55067,7 @@ zone "meer.kg"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega-dim.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega-pari.world"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega-shara.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "mega-shara.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega2paydom.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega2paymax.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "mega2paymix.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -64596,6 +64600,7 @@ zone "smokejeen.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "smokeopt.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokeopt.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokers.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "smokeshop.biz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokeshop.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokeshop.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "smokeshops.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
