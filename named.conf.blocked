@@ -63720,6 +63720,7 @@ zone "s-dopomoga.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "s-dopomoga.online"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "s-dopomoga.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "s-dopomoga.today"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "s-k.by"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "s-pay.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "s-pidtrumka.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "s-rt19373lz.vip"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
