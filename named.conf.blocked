@@ -50616,6 +50616,7 @@ zone "jawbets8.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "jay-order.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jazzcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jazzsports.ag"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "jb-24.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jb-pay.me"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "jb6.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -54457,8 +54458,11 @@ zone "lugansk1.info"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "lugarto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly113.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lukkly18.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lukkly19.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly20.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly21.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "lukkly32.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly4.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly5.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "lukkly6.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -64883,6 +64887,7 @@ zone "solomka.cc"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "solschool.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "solshadows.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "solunlimcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "solvip.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "solvip64.casino"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "solwv40.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "som.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
