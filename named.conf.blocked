@@ -41926,6 +41926,7 @@ zone "bonusnft.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "bonustop.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bonustoto.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bonzaspins311.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "boobook.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boocasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "booit71l.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "book-tower.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -52884,6 +52885,7 @@ zone "knijun.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "knu.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knu.edu.eu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knushevchenko.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "knygarium.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knygomania.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "knygy.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "koalaroyal.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
