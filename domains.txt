@@ -40170,9 +40170,6 @@ app-privat24.site
 app-privat24.tk
 app-private24.site
 app-raiffeisen.online
-app.777.ua
-app.betking.com.ua
-app.bitcoinplay.gg
 app.cashir.live
 app.pari-match.de
 app.rxcgames.com
@@ -42063,7 +42060,6 @@ bqdh.cn.com
 bqh-srv-mail.rizonjet.com
 br-12541.xyz
 br-stone.net
-br.com
 br.com.ua
 br.melbet.com
 br.nomadgames.com
@@ -43346,7 +43342,6 @@ clutch.app
 clykpay.com
 cmd368.com
 cmh.ru
-cn.com
 cn.km.ua
 cn08.site
 cnap.kherson.ua
@@ -43433,7 +43428,6 @@ colimaadetalle.com
 colosseumcasino.com
 colossusbets.com
 com-appwinonewin-partnerapp.fr.uptodown.com
-com.de
 com1368.website
 com1465.website
 come.true-site1.com
@@ -60068,7 +60062,6 @@ pagepaytop.pro
 pagepaytop.uno
 pagepayvip.pro
 pagepayvip.uno
-pages.dev
 pai-bancer.me
 pai-helpi.me
 pai-helpi.site
