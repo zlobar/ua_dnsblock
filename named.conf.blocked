@@ -38545,6 +38545,7 @@ zone "82.xn--b1aew.xn--p1ai"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "82reg.roszdravnadzor.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "82slotoro349.bet"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "82slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "83192-tr.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "83356.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "83fvs7c.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "83slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -42034,6 +42035,7 @@ zone "braslet925.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "brasleta.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bratske.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bravevoyage14.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "brentos.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bresser-ukraine.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brfan-sport.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "brightecho71.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
