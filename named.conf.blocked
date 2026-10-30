@@ -71332,6 +71332,7 @@ zone "yandexdatafactory.com"	{ type master; file "/usr/local/etc/namedb/primary/
 zone "yandextaksiua.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "yandextaxi.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "yandextaxi.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "yarreg.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "yasispolkom.dnr-online.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "yasispolkom.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "yasnarich.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
