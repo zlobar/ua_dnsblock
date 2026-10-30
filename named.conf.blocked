@@ -39010,6 +39010,7 @@ zone "akciatv.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; 
 zone "akfavbet.hr"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akhmetovfoundation.org.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "ako8zfgtz0kr.pro"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "akonit.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "akula.lutsk.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "al-ko.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "al1vvin.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -41995,6 +41996,7 @@ zone "bookmate.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "bookmood.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookmoodd.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookovka.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "bookshop.in.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "booksto.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "bookstore.kiev.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "boom-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -49238,6 +49240,7 @@ zone "hayali.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db
 zone "hazcasino.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hazyaggregate.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hb0.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "hbrstore.site"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hcppxzmb.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hd-kinogo.co"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "hd-rezka.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
