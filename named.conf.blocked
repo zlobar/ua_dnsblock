@@ -39420,6 +39420,7 @@ zone "7520e2i.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db";
 zone "75382-megaparipartners.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "75slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "75wuki.cn"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "76.ru"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "76cl8wo.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "76jokerua.top"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "76slottica.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
