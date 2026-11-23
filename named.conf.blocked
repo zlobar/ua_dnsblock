@@ -47033,6 +47033,7 @@ zone "elemi.hu"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elentorno-dominga.xyz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elexbet1360.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elexbet1367.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "elexbet1379.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elf.sale"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elfb.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "elfb.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -48291,6 +48292,7 @@ zone "fav365ua-kasino.com"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "fav365ua-kyiv.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fav365ua-online.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fav365ua-online.com.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "fav365ua-online.net"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fav365ua-slots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fav365ua-vip.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "fav365ua.biz.ua"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -51804,6 +51806,7 @@ zone "grandwin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"
 zone "grandx.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gratorama.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "gratowin.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "greatslots.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "greatwin3.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "green-gos.club"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "green-market.biz"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -63698,6 +63701,7 @@ zone "one-vv2913.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "one-vv2914.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv2919.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv292.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "one-vv2920.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv293.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv2939.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv2948.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -63822,6 +63826,7 @@ zone "one-vv3341.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "one-vv3343.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv335.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv3352.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "one-vv3355.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv3355.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv33585.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv336.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -64119,6 +64124,7 @@ zone "one-vv4394.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.d
 zone "one-vv4400.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv4401.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv4403.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "one-vv4404.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv442.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv443.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv4431.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -65257,6 +65263,7 @@ zone "one-vv8524.life"	{ type master; file "/usr/local/etc/namedb/primary/empty.
 zone "one-vv8530.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv854.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv8540.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "one-vv8541.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv8547.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv855.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "one-vv856.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
@@ -73446,6 +73453,7 @@ zone "top.redirect-me.xyz"	{ type master; file "/usr/local/etc/namedb/primary/em
 zone "top100bookmakers.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "top10ua.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "top1ma1ch.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
+zone "top1match-1.com"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "top1match.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "top2paids.org"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
 zone "top2paylink.art"	{ type master; file "/usr/local/etc/namedb/primary/empty.db"; };
